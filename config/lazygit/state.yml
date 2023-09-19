@@ -1,0 +1,11 @@
+lastupdatecheck: 0
+recentrepos:
+- /home/time/workspace/dotifiles
+- /home/time/workspace/dotifiles/config/nvim
+startuppopupversion: 5
+customcommandshistory:
+- git prune
+- q
+- help
+hidecommandlog: false
+ignorewhitespaceindiffview: false

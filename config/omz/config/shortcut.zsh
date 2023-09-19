@@ -1,0 +1,18 @@
+alias ra="ranger"
+alias vim="nvim"
+alias n="nvim"
+alias neo="neofetch"
+alias zshshortcut="nvim ~/.config/omz/config/shortcut.zsh"
+alias sourcezsh="source ~/.zshrc"
+alias nvimkeymap="nvim ~/.config/nvim/lua/keymap.lua"
+alias wm="nvim ~/workspace/dwm/config.h"
+export PATH="/home/time/.local/share/gem/ruby/3.0.0/bin:$PATH"
+alias tz="trans :zh"
+alias 0.5="xrandr --output eDP-1 --brightness 0.5"
+alias 0.8="xrandr --output eDP-1 --brightness 0.8"
+alias 1="xrandr --output eDP-1 --brightness 1"
+alias 0.3="xrandr --output eDP-1 --brightness 0.3"
+alias 144="xrandr --output HDMI-1 --mode 2560x1440 --rate 144"
+alias 75="xrandr --output HDMI-1 --mode 2560x1440 --rate 75"
+
+
