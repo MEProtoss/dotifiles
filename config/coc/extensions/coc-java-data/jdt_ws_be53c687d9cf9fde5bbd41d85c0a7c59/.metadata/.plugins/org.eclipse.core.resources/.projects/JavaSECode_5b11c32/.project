@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>JavaSECode_5b11c32</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+		<nature>org.eclipse.jdt.ls.unmanagedFolderNature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>_</name>
+			<type>2</type>
+			<location>/home/time/编程学习/Java/07_授课代码/JavaSECode/</location>
+		</link>
+	</linkedResources>
+</projectDescription>

@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "coc-marketplace": ">=1.9.0",
+    "coc-json": ">=1.9.2",
+    "coc-tsserver": ">=2.1.4",
+    "coc-css": ">=2.1.0",
+    "coc-clangd": ">=0.30.2",
+    "coc-html": ">=1.8.0",
+    "coc-sumneko-lua": ">=0.0.41",
+    "coc-vimlsp": ">=0.13.1",
+    "coc-sh": ">=1.2.2",
+    "coc-db": ">=0.0.44",
+    "@yaegassy/coc-volar": ">=0.35.2",
+    "coc-go": ">=1.3.33",
+    "@nomicfoundation/coc-solidity": ">=0.7.3",
+    "coc-prettier": ">=9.3.2",
+    "coc-toml": ">=1.2.5",
+    "coc-snippets": ">=3.1.10",
+    "coc-pyright": ">=1.1.355",
+    "coc-word": ">=1.2.2",
+    "coc-pairs": ">=1.4.2",
+    "coc-translator": ">=1.9.5",
+    "coc-git": ">=2.7.0",
+    "coc-java": ">=1.15.2",
+    "coc-java-lombok": ">=1.0.0"
+  },
+  "lastUpdate": 1710929861781
+}

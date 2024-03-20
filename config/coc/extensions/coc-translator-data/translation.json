@@ -1,0 +1,50 @@
+[
+  {
+    "id": "0CX245VXAPPfc362ZlNnS",
+    "content": [
+      "hex",
+      "名詞. 魔女"
+    ],
+    "path": "file:///home/time/workspace/dotifiles/config/cava/config\t182\t24"
+  },
+  {
+    "id": "dfDr3BH_tW3J8F7Oiobe_",
+    "content": [
+      "Gradient",
+      "名詞. 梯度, 坡度, 陡度, 升降率"
+    ],
+    "path": "file:///home/time/workspace/dotifiles/config/cava/config\t181\t8"
+  },
+  {
+    "id": "-hoN8aozhn8E0mAAAbRtl",
+    "content": [
+      "# 'autosens' will attempt to decrease sensitivity if the bars peak. 1 = on, 0 = off\n# new as of 0.6.0 autosens of low values (dynamic range)\n# 'overshoot' allows bars to overshoot (in % of terminal height) without initiating autosens. DEPRECATED as of 0.6.0",
+      "# 如果条形达到峰值，“autosens”将尝试降低灵敏度。 "
+    ],
+    "path": "file:///home/time/workspace/dotifiles/config/cava/config\t13\t1"
+  },
+  {
+    "id": "i6D5RilFyBCKDdNBF3Zrb",
+    "content": [
+      "Remove",
+      "動詞. 清除, 消除, 拆除, 排除, 除, 解除, 去, 扫除, 祛, 移, 撤除, 拔除, 卸, 撤, 搬迁, 搬移, 搬, 免, 搬家, 废止, 屏除, 辙, 排斥, 取而代之, 输, 纾, 输出"
+    ],
+    "path": "file:///home/time/workspace/dotifiles/config/cava/config\t2\t3"
+  },
+  {
+    "id": "HfDxSSnLfB1dKq4Q9_DF1",
+    "content": [
+      "config",
+      "n. 配置，布局；显示配置信息命令"
+    ],
+    "path": "file:///home/time/%E7%BC%96%E7%A8%8B%E5%AD%A6%E4%B9%A0/Notes/mybatis.md\t236\t40"
+  },
+  {
+    "id": "FY081o2TDdJtChKJVshmo",
+    "content": [
+      "豆子",
+      "beans"
+    ],
+    "path": "file:///home/time/%E7%BC%96%E7%A8%8B%E5%AD%A6%E4%B9%A0/Notes/Spring6.md\t133\t79"
+  }
+]

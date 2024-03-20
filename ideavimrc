@@ -1,160 +1,162 @@
-let g:mapleader = ' '
+"
+================================================================================================
+" = Extensions =====================================
+" ================================================================================================
+Plug 'tpope/vim-surround'
+Plug 'preservim/nerdtree'
+Plug 'terryma/vim-multiple-cursors'
+map <D-b> <A-n>
+map mx <A-x>
+map mv <A-p>
 
-" 中英文输入法自动切换
-set keep-english-in-normal
-
-" surround插件
-set surround
-
-" easymotion
-let g:EasyMotion_do_mapping = 0
-set easymotion
-nmap <leader><leader> <Plug>(easymotion-s)
-
-
-" 仿真NERDTree插件
-" https://github.com/JetBrains/ideavim/wiki/NERDTree-support
-set NERDTree
-nmap T :NERDTreeFind<CR>
-
-" https://github.com/JetBrains/ideavim/blob/master/doc/IdeaVim%20Plugins.md
-Plug 'vim-scripts/ReplaceWithRegister'
-nmap rs  <Plug>ReplaceWithRegisterOperator
-nmap rss <Plug>ReplaceWithRegisterLine
-xmap rs  <Plug>ReplaceWithRegisterVisual
-
-" 高亮搜索
-set hlsearch
-" 搜索时跳到搜索目标处
-set incsearch
-" 智能搜索
+" ================================================================================================
+" = Basic settings =====================================
+" ================================================================================================
+set clipboard+=unnamed
 set ignorecase
-set smartcase
-" 行号显示
-set nu
-" 相对行号
-set rnu
+set scrolloff=30
+set history=200
 
-" 滚动时保持上下边距
-set scrolloff=5
-" 该设置可以将光标定位到窗口中间位置
-" set scrolloff=999
+set number
+set relativenumber
 
-" Esc
-imap jk <ESC>
+set incsearch
+set hlsearch
 
-" 取消高亮
-nmap \ :noh<CR>
-nmap <C-[> :noh<CR>
+set keep-english-in-normal-and-restore-in-insert
+" ================================================================================================
+" = No Leader Keymaps =====================================
+" ================================================================================================
+nmap ge <action>(GotoNextError)
+nmap gt <action>(GotoTest)
+nmap gm <action>(MethodUp)
+nmap gi <action>(GotoImplementation)
+nmap go <action>(GotoTypeDeclaration)
 
-" 快捷方式
-nmap <C-q> :q<CR>
+" bookmark
+nmap mm <action>(ToggleBookmark)
+nmap ma mA
+nmap 'a 'A
 
-" 拖拽行
-"nmap <C-S-j> :move +1<CR>==
-"nmap <C-S-k> :move -2<CR>==
-"xmap <C-S-j> :move '>+1<CR>gv=gv
-"xmap <C-S-k> :move '<-2<CR>gv=gv
+nmap L <action>(NextTab)
+nmap H <action>(PreviousTab)
 
-" 系统剪切板
-set clipboard^=unnamed,unnamedplus
-" x模式黏贴后重新复制被黏贴内容
-" xnoremap p pgvy
 
-" 复制黏贴
-xmap <C-c> y
-map <C-S-V> p
-imap <C-S-V> <C-r>+
+" ================================================================================================
+" = Leader Keymaps =====================================
+" ================================================================================================
+" leaderkey
+let mapleader=" "
 
-" 复制整个缓冲区
-nmap <leader>y mmggVGy`m
+" ================================================================================================
+" 👻👻👻 Which-Key 👻👻👻
+" ================================================================================================
+set which-key
+set notimeout
 
-" https://github.com/JetBrains/ideavim
-" IdeaVim: track action Ids
-nmap <C-o> <Action>(Back)
-nmap <C-i> <Action>(Forward)
-" nmap u <Action>($Undo)
-" nmap <C-r> <Action>($Redo)
-" 文件查找
-nmap <leader>ff <Action>(GotoFile)
-" 全局模糊搜索
-nmap <leader>fg <Action>(FindInPath)
-" 等价于idea中的shift+shift
-nmap <leader>fb <Action>(SearchEverywhere)
-" 全局替换
-nmap <leader>fr <Action>(ReplaceInPath)
-" 类查找
-nmap gw <Action>(GotoClass)
-" 类方法或类成员字段查找
-nmap gs <Action>(FileStructurePopup)
-" 实现类或方法查找
-nmap g<space> <Action>(GotoImplementation)
-" 跳转到定义或引用处
-nmap gd <Action>(GotoDeclaration)
-" 查找所有引用，类似vim中的quickfix列表
-nmap gr <Action>(FindUsages)
-" 找到被实现的类或方法
-nmap gp <Action>(GotoSuperMethod)
-" 注释
-nmap gcc <Action>(CommentByLineComment)
-xmap gc <Action>(CommentByLineComment)<Esc>
-" 代码编辑提示
-nmap <leader>ca <Action>(ShowIntentionActions)
-xmap <leader>ca <Action>(ShowIntentionActions)
-" 新建类
-nmap <leader>nc <Action>(NewClass)
-" 打开终端
-nmap `` <Action>(ActivateTerminalToolWindow)
-" 翻译
-xmap <leader>t <Action>($EditorTranslateAction)<Esc>
-nmap <leader>T <Action>($ShowTranslationDialogAction)
-nmap <leader>t viw<Action>($EditorTranslateAction)
-" 格式化
-nmap <leader>fm <Action>(ReformatCode)
-" 重命名
-nmap <leader>rn <Action>(RenameElement)
-" 类wildfire
-nmap <Enter> <Action>(EditorSelectWord)
-nmap <BS> <Action>(EditorUnSelectWord)
-xmap <Enter> <Action>(EditorSelectWord)
-xmap <BS> <Action>(EditorUnSelectWord)
-" 找到上一个或下一个突出高亮
-nmap <C-j> <Action>(GotoNextElementUnderCaretUsage)
-nmap <C-k> <Action>(GotoPrevElementUnderCaretUsage)
-" 打开最近的项目
-nmap <leader>fs <Action>($LRU)
+" d: diff
+nmap <leader>dd <action>(Vcs.ShowTabbedFileHistory)
+
+" f: Find/Format ⭐️
+let g:WhichKeyDesc_FindOrFormat = "<leader>f FindOrFormat"
+let g:WhichKeyDesc_FindOrFormat_FindFile = "<leader>ff FindFile"
+nmap <leader>ff <action>(GotoFile)
+
+let g:WhichKeyDesc_FindOrFormat_FindFileLocation = "<leader>fl FindFileLocation"
+nmap <leader>fl <action>(SelectInProjectView)
+
+let g:WhichKeyDesc_FindOrFormat_FindText = "<leader>ft FindText"
+nmap <leader>ft <action>(FindInPath)
+
+let g:WhichKeyDesc_FindOrFormat_Commands = "<leader>fc Commands"
+nmap <leader>fc <action>(GotoAction)
+
+let g:WhichKeyDesc_FindOrFormat_OpenedProject = "<leader>fp OpenedProject"
+nmap <leader>fp <action>(OpenProjectWindows)
+
+let g:WhichKeyDesc_FindOrFormat_Format = "<leader>fm Format"
+nmap <leader>fm <action>(ReformatCode) \| <action>(OptimizeImports)
+
+" g: Git ⭐️
+let g:WhichKeyDesc_Git = "<leader>g Git"
+let g:WhichKeyDesc_Git_RollbackHunk = "<leader>gr RollbackHunk"
+nmap <leader>gr :action Vcs.RollbackChangedLines<CR>
+
+" i: Insert ⭐️
+let g:WhichKeyDesc_InsertAfterBrackets = "<leader>i InsertAfterBrackets"
+nmap <leader>i f(a
+
+" j: add Semicolon and goto nextline⭐️
+let g:WhichKeyDesc_InsertSemicolon = "<leader>j InsertSemicolon"
+nmap <leader>j A;<ESC>o
+
+" l: lsp: Language server protocol (align with neovim)⭐️
+let g:WhichKeyDesc_LSP = "<leader>l LSP"
+let g:WhichKeyDesc_LSP_Rename = "<leader>lr Rename"
+nmap <leader>lr <action>(RenameElement)
+
+
+" n: No ⭐️
+let g:WhichKeyDesc_No_Highlight = "<leader>nl NoHighlight"
+nmap <leader>nl :nohlsearch<CR>
+
+
+" s: Show ⭐️
+let g:WhichKeyDesc_Show = "<leader>s Show"
+let g:WhichKeyDesc_Show_FileStructure = "<leader>ss ShowFileStructure"
+nmap <leader>ss <action>(FileStructurePopup)
+let g:WhichKeyDesc_Show_Bookmarks = "<leader>sb ShowBookmarks"
+nmap <leader>sb <action>(ShowBookmarks)
+let g:WhichKeyDesc_Show_ParameterInfo = "<leader>sb ShowParameterInfo"
+nmap <leader>sp <action>(ParameterInfo)
+
+" r: Run/Re ⭐️
+let g:WhichKeyDesc_RunOrRe = "<leader>r RunOrRe"
+let g:WhichKeyDesc_RunOrRe_ReRun = "<leader>rr ReRun"
+nmap <leader>rr <action>(Rerun)
+let g:WhichKeyDesc_RunOrRe_ReRunTests = "<leader>rt ReRunTests"
+nmap <leader>rt <action>(RerunTests)
+let g:WhichKeyDesc_RunOrRe_Rename = "<leader>rn Rename"
+map <leader>rn <action>(RenameElement)
+
+" w: Window ⭐️
+let g:WhichKeyDesc_Windows = "<leader>w Windows"
+let g:WhichKeyDesc_Windows_maximize = "<leader>wo maximize"
+nmap <leader>wo <action>(UnsplitAll) \| <action>(HideAllWindows)
+let g:WhichKeyDesc_Windows_splitWindowVertically = "<leader>wl splitWindowVertically"
+nmap <leader>wl <action>(Macro.SplitVertically)
+let g:WhichKeyDesc_Windows_closeActiveWindow = "<leader>wc closeActiveWindow"
+nmap <leader>wc <c-w>c
+
+" z: zip(fold) ⭐️
+let g:WhichKeyDesc_Zip = "<leader>z Zip"
+let g:WhichKeyDesc_Zip_unZipAll = "<leader>zo unZipAll"
+nmap <leader>zo <action>(ExpandAllRegions)
+let g:WhichKeyDesc_Zip_ZipAll = "<leader>zc ZipAll"
+nmap <leader>zc <action>(CollapseAllRegions)
+
+" c: Close ⭐️;
+let g:WhichKeyDesc_CloseBuffer = "<leader>c CloseBuffer"
+nmap <leader>c :q!<CR>
+
+" e: Toggle Explorer ⭐️
+let g:WhichKeyDesc_ToggleExplorerOrExtract = "<leader>e ToggleExplorer"
+nmap <leader>e <action>(ActivateProjectToolWindow)
+" e: Extract
+" extract method/function
+vmap <leader>em <action>(ExtractMethod)
+" extract constant
+vmap <leader>ec <action>(IntroduceConstant)
+" extract field
+vmap <leader>ef <action>(IntroduceField)
+" extract variable
+vmap <leader>ev <action>(IntroduceVariable)
+
+
 " 选择主题
-nmap <leader>fc <Action>(ChangeLaf)
+nmap <leader>ct <Action>(ChangeLaf)
 " vim模式开关
 nmap <leader>vim <Action>(VimPluginToggle)
-" 选择idea keymap
-nmap <leader>mp <Action>(ChangeKeymap)
-" 跳转tab
-nmap [t <Action>(PreviousTab)
-nmap ]t <Action>(NextTab)
-" 跳转method
-nmap [f <Action>(MethodUp)
-nmap ]f <Action>(MethodDown)
-" debug
-nmap <leader>dd <Action>(DebugClass)
-nmap <leader>db <Action>(ToggleLineBreakpoint)
-nmap <leader>dr <Action>(EvaluateExpression)
-" git
-nmap <leader>gb <Action>(Annotate)
-" gpt plugin
-nmap <leader>cg <Action>(Generate)
-nmap <leader>ct <Action>(com.note.chatgpt.OpenCodeAiWindow)
-xmap <leader>ck <Action>(com.note.chatgpt.OpenCodeAiWindowWithText)
-
-nmap sv <Action>(Split Right)
-
-" sethandler
-sethandler <C-h> a:ide
-sethandler <C-j> a:vim i:ide
-sethandler <C-k> a:vim i:ide
-sethandler <C-l> a:ide
-sethandler <C-S-V> a:vim
-
 vnoremap ; :
 nnoremap ; :
 
@@ -163,15 +165,12 @@ nmap Q :q<CR>
 
 "行首尾跳转
 nnoremap <C-E> <End>
-inoremap <C-E> <Esc>$a
+inoremap <C-E> <Esc>A
 vnoremap <C-E> <Esc>$a
 
 nnoremap <C-A> <Home>
-inoremap <C-A> <Esc>0i
+inoremap <C-A> <Esc>I
 vnoremap <C-A> <Esc>0
-
-"重载配置
-nnoremap <leader>R :source ~/.ideavimrc<CR>
 
 "重写shift+左右
 vnoremap <S-right> e
@@ -184,3 +183,41 @@ imap <C-h> col(".") == col("$") ? \'<esc>"_db"_xa\' : \'<esc>"_db"_xi\'
 "only change text
 xmap <BS> \"_d
 nmap x \"_x
+
+inoremap <a-o> <Esc>o
+inoremap <a-s-o> <Esc>O
+
+" 注释
+nmap gcc <Action>(CommentByLineComment)
+xmap gc <Action>(CommentByLineComment)<Esc>
+
+" easymotion
+let g:EasyMotion_do_mapping = 0
+set easymotion
+nmap <leader><leader> <Plug>(easymotion-s)
+
+noremap <C-D> cc<Esc>
+inoremap <C-D> <Esc>cc
+
+"重写shift + 方向 选择文本
+inoremap <s-up> <esc>vkl
+inoremap <s-down> <esc>lvjh
+
+noremap <s-up> Vk
+noremap <s-down> Vj
+
+vnoremap <s-up> k
+vnoremap <s-down> j
+
+noremap <s-left> <left>vh
+noremap <s-right> vl
+
+
+
+
+
+
+
+
+
+

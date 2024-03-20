@@ -1,0 +1,11 @@
+{
+  "@yaegassy/coc-volar|/home/time": {
+    "coc-volar-tsdk-path": "/home/time/workspace/dotifiles/config/coc/extensions/node_modules/@yaegassy/coc-volar/node_modules/typescript/lib"
+  },
+  "@yaegassy/coc-volar|/home/time/编程学习/TestFile": {
+    "coc-volar-tsdk-path": "/home/time/workspace/dotifiles/config/coc/extensions/node_modules/@yaegassy/coc-volar/node_modules/typescript/lib"
+  },
+  "@yaegassy/coc-volar|/home/time/Code/vue_code/vue框架/big-event": {
+    "coc-volar-tsdk-path": "/home/time/workspace/dotifiles/config/coc/extensions/node_modules/@yaegassy/coc-volar/node_modules/typescript/lib"
+  }
+}
