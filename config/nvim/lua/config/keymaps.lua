@@ -5,8 +5,11 @@
 local map = vim.keymap.set
 
 -- insert mode
-map("i", "<A-a>", "<right>", { desc = "向右移动一格光标", remap = true })
-map("i", "<C-d>", "<esc>yyp$a", { desc = "复制当前行", remap = true })
-map("n", "<bs>", '"_ciw', { desc = "快速删除", remap = true })
+-- 向右移动光标
+map("i", "<A-a>", "<right>", { desc = "向右移动一格光标", noremap = true })
+-- 复制当前行
+map("i", "<C-d>", "<esc>yyp$a", { desc = "复制当前行", noremap = true })
+-- 退格键快速删除
+map("n", "<bs>", '"_ciw', { desc = "快速删除", noremap = true })
 -- map("v", "<c-h>", rhs, opts)
 -- normal mode
