@@ -1,0 +1,7 @@
+{
+  "modules": [
+    "title", "separator", "os",
+    "uptime", "packages", "shell","display","wm","theme","terminal","memory",
+    "disk","cpu","localip", "break", "colors"
+  ]
+}

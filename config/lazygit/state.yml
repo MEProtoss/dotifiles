@@ -1,14 +1,15 @@
 lastupdatecheck: 0
 recentrepos:
 - /home/time/workspace/dotifiles
+- /home/time/.config/omz
 - /home/time/Pictures/wallpaper
 - /home/time/编程学习/Notes
 - /home/time/编程学习/Java/07_授课代码/JavaSECode
 - /home/time/workspace/dwm
 startuppopupversion: 5
 customcommandshistory:
-- git prune
-- q
 - help
+- q
+- git prune
 hidecommandlog: false
 ignorewhitespaceindiffview: false

@@ -1,4 +1,0 @@
-INDEX VERSION 1.132+/home/time/workspace/dotifiles/config/coc/extensions/coc-java-data/jdt_ws_be53c687d9cf9fde5bbd41d85c0a7c59/.metadata/.plugins/org.eclipse.jdt.core
-3842426239.index
-3021039093.index
-1865797976.index

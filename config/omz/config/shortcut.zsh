@@ -1,7 +1,6 @@
 alias jo="joshuto"
 alias vim="nvim"
 alias n="nvim"
-alias neo="neofetch"
 alias lag="lazygit"
 alias zshshortcut="nvim ~/.config/omz/config/shortcut.zsh"
 alias sourcezsh="source ~/.zshrc"
@@ -20,6 +19,7 @@ alias vrc="nvim ~/.config/nvim/init.lua"
 alias mus="musicfox"
 alias ls="exa"
 alias ra='ranger'
+alias fas='random_number=$((RANDOM % 739 + 1)); fastfetch --logo ~/Pictures/anime/${random_number}.png --logo-type kitty --logo-width 30 --logo-height 17'
 
 # 使用trash-cli命令行回收站工具 
 
@@ -27,3 +27,5 @@ alias rm="trash-put"
 alias trashcan="cd ~/.local/share/Trash"
 # 处理解压windows压缩文件的标题乱码问题
 alias unzip="unzip -O CP936"
+
+
