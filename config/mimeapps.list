@@ -20,6 +20,7 @@ application/xhtml+xml=firefox.desktop
 application/x-extension-xhtml=firefox.desktop
 application/x-extension-xht=firefox.desktop
 application/pdf=org.kde.okular.desktop
+application/x-shellscript=nvim.desktop
 
 [Added Associations]
 text/plain=nvim.desktop;wps-office-prometheus.desktop;
@@ -37,4 +38,5 @@ application/x-extension-shtml=firefox.desktop;
 application/xhtml+xml=firefox.desktop;
 application/x-extension-xhtml=firefox.desktop;
 application/x-extension-xht=firefox.desktop;
-application/pdf=org.kde.okular.desktop;
+application/pdf=wyeb.desktop;org.kde.okular.desktop;
+application/x-shellscript=nvim.desktop;

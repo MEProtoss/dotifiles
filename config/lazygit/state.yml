@@ -2,12 +2,14 @@ lastupdatecheck: 0
 recentrepos:
 - /home/time/workspace/dotifiles
 - /home/time/.config/omz
-- /home/time/Pictures/wallpaper
-- /home/time/编程学习/Notes
-- /home/time/编程学习/Java/07_授课代码/JavaSECode
 - /home/time/workspace/dwm
+- /home/time/scripts
+- /home/time/thesis/ResearchSubject
+- /home/time/.local/share/fcitx5/rime
+- /home/time/Pictures/wallpaper
 startuppopupversion: 5
 customcommandshistory:
+- ""
 - help
 - q
 - git prune
