@@ -38,6 +38,16 @@ snippet cc "code block~"
 		${1}
 	`b:md_block`
 
+snippet cb "code block~"
+	`b:md_block`${1}
+		${2}
+	`b:md_block`
+
+snippet cbj "code block java"
+	`b:md_block`${0:java}
+		${1}
+	`b:md_block`
+
 snippet mer "mermaid~"
 	`b:md_block`mermaid
 	graph TB
@@ -109,7 +119,4 @@ snippet h4 "4级标题"
 
 snippet h5 "5级标题"
 	##### ${1}
-
-snippet link "link" 
-	[${1}](${2})
 

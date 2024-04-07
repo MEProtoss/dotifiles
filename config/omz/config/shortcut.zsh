@@ -1,6 +1,6 @@
 alias jo="joshuto"
-alias vim="nvim"
 alias n="nvim"
+alias nginx="sudo nginx"
 alias lag="lazygit"
 alias zshshortcut="nvim ~/.config/omz/config/shortcut.zsh"
 alias sourcezsh="source ~/.zshrc"

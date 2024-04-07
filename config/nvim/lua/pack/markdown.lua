@@ -17,7 +17,7 @@ end
 function M.setup_hlcodeblock()
     G.hi({ ["MDCodeBlock"] = { bg = 234 }, })
     require('hl-mdcodeblock').setup({
-        minumum_len = 80,
+        minumum_len = 100,
     })
 end
 

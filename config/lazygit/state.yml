@@ -1,17 +1,25 @@
 lastupdatecheck: 0
 recentrepos:
 - /home/time/workspace/dotifiles
-- /home/time/.config/omz
+- /home/time/ProgrammerLearning/Notes
 - /home/time/workspace/dwm
 - /home/time/scripts
+- /home/time/.config/omz
 - /home/time/thesis/ResearchSubject
 - /home/time/.local/share/fcitx5/rime
 - /home/time/Pictures/wallpaper
 startuppopupversion: 5
+lastversion: 0.41.0
 customcommandshistory:
+- q
 - ""
 - help
-- q
 - git prune
+- wq
 hidecommandlog: false
 ignorewhitespaceindiffview: false
+diffcontextsize: 3
+localbranchsortorder: recency
+remotebranchsortorder: alphabetical
+gitlogorder: topo-order
+gitlogshowgraph: always

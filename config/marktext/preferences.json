@@ -41,7 +41,7 @@
 	"isHtmlEnabled": true,
 	"isGitlabCompatibilityEnabled": false,
 	"sequenceTheme": "hand",
-	"theme": "material-dark",
+	"theme": "dark",
 	"autoSwitchTheme": 0,
 	"spellcheckerEnabled": false,
 	"spellcheckerIsHunspell": false,
@@ -60,5 +60,5 @@
 	"searchNoIgnore": false,
 	"searchFollowSymlinks": true,
 	"watcherUsePolling": false,
-	"defaultDirectoryToOpen": "/home/time/编程学习"
+	"defaultDirectoryToOpen": "/home/time/ProgrammerLearning"
 }
