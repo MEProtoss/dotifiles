@@ -17,7 +17,7 @@ export JAVA_HOME=$JAVA_17_HOME
 export PATH=$PATH:/opt/maven/bin
 export LOMBOK_JAR=/home/time/Downloads/idea-IU-232.9559.62/plugins/lombok/lib/lombok.jar
 export PATH=$PATH:~/.local/bin
-
+export EDITOR=/usr/bin/nvim
 
 wds() {
        wd $*
