@@ -365,3 +365,5 @@ config/pulse
 config/spark-wine
 config/yesplaymusic
 config/QtProject.conf
+config/xyz.chatboxapp.app
+config/mpd

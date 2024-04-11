@@ -24,25 +24,39 @@ return {
 	-- a theme
 	{
 		"sainnhe/vim-color-forest-night",
-		config = function()
-			require("monokai").setup({
-				custom_hlgroups = {
-					FlashCurrent = { fg = "#FF0000", bg = "#FF0000" },
-					FlashLabel = { fg = "#FBF3CB", bg = "#FF007C" },
-					FlashMatch = { fg = "#000000", bg = "#000000" },
-				},
-			})
-		end,
 	},
 	-- a theme
 	{
 		"malbernaz/monokai.nvim",
+		-- config = function()
+		-- 	require("monokai").setup({
+		-- 		custom_hlgroups = {
+		-- 			FlashCurrent = { fg = "#FF0000", bg = "#FF0000" },
+		-- 			FlashLabel = { fg = "#FBF3CB", bg = "#FF007C" },
+		-- 			FlashMatch = { fg = "#000000", bg = "#000000" },
+		-- 		},
+		-- 	})
+		-- end,
 	},
 	-- 设置nvim默认主题
 	{
 		"LazyVim/LazyVim",
 		opts = {
-			colorscheme = "everforest",
+			colorscheme = "tokyonight", -- catppucin gruvbox monokai
+		},
+	},
+
+	-- a theme
+	{
+		"folke/tokyonight.nvim",
+		lazy = true,
+		opts = {
+			style = "moon",
+			transparent = true,
+			styles = {
+				sidebars = "transparent",
+				floats = "transparent",
+			},
 		},
 	},
 }

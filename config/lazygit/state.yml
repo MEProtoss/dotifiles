@@ -1,9 +1,9 @@
 lastupdatecheck: 0
 recentrepos:
 - /home/time/workspace/dotifiles
+- /home/time/.config/omz
 - /home/time/workspace/dwm
 - /home/time/scripts
-- /home/time/.config/omz
 - /home/time/.local/share/fcitx5/rime
 startuppopupversion: 5
 lastversion: 0.41.0
