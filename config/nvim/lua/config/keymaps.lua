@@ -44,12 +44,8 @@ map("n", "<s-right>", "vl", { desc = "选择右", noremap = true })
 -- CTRL SHIFT + 方向 快速跳转
 map("n", "<c-s-up>", "10k", { desc = "快速跳转上", noremap = true })
 map("n", "<c-s-down>", "10j", { desc = "快速跳转下", noremap = true })
-map("n", "<c-s-left>", "^", { desc = "快速跳转左", noremap = true })
-map("n", "<c-s-right>", "$", { desc = "快速跳转右", noremap = true })
 map("v", "<c-s-up>", "10k", { desc = "快速跳转上", noremap = true })
 map("v", "<c-s-down>", "10j", { desc = "快速跳转下", noremap = true })
-map("v", "<c-s-left>", "^", { desc = "快速跳转左", noremap = true })
-map("v", "<c-s-right>", "$h", { desc = "快速跳转右", noremap = true })
 
 -- 普通模式下 - 折叠代码块
 map("n", "-", "za", { desc = "折叠代码块", noremap = true })
@@ -83,6 +79,31 @@ vim.api.nvim_set_keymap("v", "T", ":lua MagicToggleHump(true)<CR>", { noremap = 
 
 -- 在可视模式下切换下划线命名法
 vim.api.nvim_set_keymap("v", "t", ":lua MagicToggleHump(false)<CR>", { noremap = true, silent = true })
+
+-- 光标在行首或行尾跳转函数
+function MagicMove()
+	local first = 1
+	local head = #vim.fn.getline(".") - #vim.fn.substitute(vim.fn.getline("."), "^\\s*", "", "G") + 1
+	local before = vim.fn.col(".")
+	if before == first then
+		if first ~= head then
+			vim.cmd("norm! ^")
+		end
+	else
+		vim.cmd("norm! $")
+	end
+	local after = vim.fn.col(".")
+	if before == after then
+		vim.cmd("norm! 0")
+	end
+end
+
+-- 在 normal 模式中使用 Tab 键实现光标跳转
+vim.api.nvim_set_keymap("n", "<Tab>", ":lua MagicMove()<CR>", { noremap = true, silent = true })
+-- 在 normal 模式中按 0 键跳转到行首
+vim.api.nvim_set_keymap("n", "0", "%", { noremap = true })
+-- 在 visual 模式中按 0 键跳转到行首
+vim.api.nvim_set_keymap("v", "0", "%", { noremap = true })
 
 -- Rnvimr插件
 -- 在插入模式下使用 Alt + i 调整 Rnvimr 大小
