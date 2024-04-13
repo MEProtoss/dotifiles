@@ -21,6 +21,10 @@ alias ls="exa"
 alias ra='ranger'
 alias fas='random_number=$((RANDOM % 739 + 1)); fastfetch --logo ~/Pictures/动漫壁纸/竖屏图片/${random_number}.png --logo-type kitty --logo-width 32 --logo-height 18'
 alias sig="xrandr --output eDP-1 --mode 2560x1600 --pos 0x0 --rotate normal --output HDMI-1 --off --output DP-1 --off --output DP-2 --off --output DP-3 --off --output DP-4 --off --output DP-5 --off && feh --randomize --bg-fill ~/Pictures/wallpaper/*.png"
+alias c="cd ~/Code/"
+alias p="cd ~/Pictures/"
+alias d="cd ~/Downloads/"
+alias a="cd ~/Applications/"
 # docker快捷键
 # 查看运行中的容器
 alias dps='sudo docker ps --format "table {{.ID}}\t{{.Image}}\t{{.Ports}}\t{{.Status}}\t{{.Names}}"'
