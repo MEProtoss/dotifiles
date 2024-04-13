@@ -50,7 +50,32 @@ map("v", "<c-s-down>", "10j", { desc = "快速跳转下", noremap = true })
 -- 普通模式下 - 折叠代码块
 map("n", "-", "za", { desc = "折叠代码块", noremap = true })
 
--- 驼峰转换函数
+-- 在可视模式下切换驼峰命名法
+vim.api.nvim_set_keymap("v", "T", ":lua MagicToggleHump(true)<CR>", { noremap = true, silent = true })
+
+-- 在可视模式下切换下划线命名法
+vim.api.nvim_set_keymap("v", "t", ":lua MagicToggleHump(false)<CR>", { noremap = true, silent = true })
+
+-- 在 normal 模式中使用 Tab 键实现光标跳转
+vim.api.nvim_set_keymap("n", "<Tab>", ":lua MagicMove()<CR>", { noremap = true, silent = true })
+-- 在 normal 模式中按 0 键跳转到行首
+vim.api.nvim_set_keymap("n", "0", "%", { noremap = true })
+-- 在 visual 模式中按 0 键跳转到行首
+vim.api.nvim_set_keymap("v", "0", "%", { noremap = true })
+
+-- Rnvimr插件
+-- 在插入模式下使用 Alt + i 调整 Rnvimr 大小
+vim.api.nvim_set_keymap("t", "<M-i>", "<C-\\><C-n>:RnvimrResize<CR>", { silent = true })
+-- 在普通模式下使用 Alt + o 切换 Rnvimr 显示
+vim.api.nvim_set_keymap("n", "<M-o>", ":RnvimrToggle<CR>", { silent = true })
+-- 在 Rnvimr 中使用 Alt + o 切换显示
+vim.api.nvim_set_keymap("t", "<M-o>", "<C-\\><C-n>:RnvimrToggle<CR>", { silent = true })
+-- 开关ChatGPTEditWithInstructions快捷键
+vim.api.nvim_set_keymap("n", "<C-c>", ":ChatGPTEditWithInstructions<CR>", { desc = "打开chatgpt", silent = true })
+-- 打开chatgpt快捷键
+vim.api.nvim_set_keymap("n", "<C-g>", ":ChatGPT<CR>", { desc = "打开chatgpt", silent = true })
+
+-- 驼峰转换函数 MagicToggleHump(true) 首字母大写 MagicToggleHump(false) 首字母小写
 function MagicToggleHump(upperCase)
 	vim.fn.execute('normal! gv"tx')
 	local w = vim.fn.getreg("t")
@@ -74,12 +99,6 @@ function MagicToggleHump(upperCase)
 	vim.fn.execute('normal! "tP')
 end
 
--- 在可视模式下切换驼峰命名法
-vim.api.nvim_set_keymap("v", "T", ":lua MagicToggleHump(true)<CR>", { noremap = true, silent = true })
-
--- 在可视模式下切换下划线命名法
-vim.api.nvim_set_keymap("v", "t", ":lua MagicToggleHump(false)<CR>", { noremap = true, silent = true })
-
 -- 光标在行首或行尾跳转函数
 function MagicMove()
 	local first = 1
@@ -97,22 +116,3 @@ function MagicMove()
 		vim.cmd("norm! 0")
 	end
 end
-
--- 在 normal 模式中使用 Tab 键实现光标跳转
-vim.api.nvim_set_keymap("n", "<Tab>", ":lua MagicMove()<CR>", { noremap = true, silent = true })
--- 在 normal 模式中按 0 键跳转到行首
-vim.api.nvim_set_keymap("n", "0", "%", { noremap = true })
--- 在 visual 模式中按 0 键跳转到行首
-vim.api.nvim_set_keymap("v", "0", "%", { noremap = true })
-
--- Rnvimr插件
--- 在插入模式下使用 Alt + i 调整 Rnvimr 大小
-vim.api.nvim_set_keymap("t", "<M-i>", "<C-\\><C-n>:RnvimrResize<CR>", { silent = true })
--- 在普通模式下使用 Alt + o 切换 Rnvimr 显示
-vim.api.nvim_set_keymap("n", "<M-o>", ":RnvimrToggle<CR>", { silent = true })
--- 在 Rnvimr 中使用 Alt + o 切换显示
-vim.api.nvim_set_keymap("t", "<M-o>", "<C-\\><C-n>:RnvimrToggle<CR>", { silent = true })
--- 开关ChatGPTEditWithInstructions快捷键
-vim.api.nvim_set_keymap("n", "<C-c>", ":ChatGPTEditWithInstructions<CR>", { desc = "打开chatgpt", silent = true })
--- 打开chatgpt快捷键
-vim.api.nvim_set_keymap("n", "<C-g>", ":ChatGPT<CR>", { desc = "打开chatgpt", silent = true })
