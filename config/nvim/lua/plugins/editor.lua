@@ -24,10 +24,8 @@ return {
 		config = function()
 			require("luasnip.loaders.from_snipmate").lazy_load()
 		end,
-    opts = {
-
-    }
 	},
+
 	-- then: setup supertab in cmp
 	{
 		"hrsh7th/nvim-cmp",
@@ -99,5 +97,10 @@ return {
 				end,
 			},
 		},
+	},
+
+	-- vim surround插件
+	{
+		"yaocccc/vim-surround",
 	},
 }

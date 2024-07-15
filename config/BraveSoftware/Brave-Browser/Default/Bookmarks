@@ -1,0 +1,2469 @@
+{
+   "checksum": "6204ce9b3b836b48fac9fba72cc6e15c",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "0",
+                  "guid": "4abc63bd-ed9c-45c6-b19e-bcb40a8901ff",
+                  "id": "7",
+                  "name": "Jiumo Search 鸠摩搜索 - 文档搜索引擎",
+                  "type": "url",
+                  "url": "https://www.jiumodiary.com/"
+               }, {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "0",
+                  "guid": "563ca58e-8f50-40fe-a6e3-8819d1ad7de9",
+                  "id": "8",
+                  "name": "Clibrary",
+                  "type": "url",
+                  "url": "https://clibrary.cn/#/"
+               }, {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "0",
+                  "guid": "55610cf1-3046-4424-9116-16e9cbfcdaca",
+                  "id": "9",
+                  "name": "calibre - Download calibre",
+                  "type": "url",
+                  "url": "https://calibre-ebook.com/download"
+               }, {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "0",
+                  "guid": "e930c5af-f1a2-4213-86da-5db489daee15",
+                  "id": "10",
+                  "name": "Все для студента",
+                  "type": "url",
+                  "url": "https://www.twirpx.com/"
+               }, {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "0",
+                  "guid": "57fe9f28-9026-4e60-a059-cd2de5013a37",
+                  "id": "11",
+                  "name": "漫画",
+                  "type": "url",
+                  "url": "http://bii.tw/"
+               }, {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "0",
+                  "guid": "92e1b134-6203-4e52-81f4-14f751f8a3a4",
+                  "id": "12",
+                  "name": "Kox.moe [Kindle漫畫|Kobo漫畫|epub漫畫] [vol.moe]",
+                  "type": "url",
+                  "url": "https://vol.moe/"
+               } ],
+               "date_added": "13362909916606108",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "ffa9260d-2be3-4707-a5fb-9b40bbfca77c",
+               "id": "6",
+               "name": "书",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "0",
+                  "guid": "31ca47eb-80c8-4370-8218-9efcccb57f53",
+                  "id": "14",
+                  "name": "身为魔王的我娶了奴隶精灵为妻，该如何表白我的爱？ 第一卷 第二章 沟通障碍者的初恋滋味就像发霉面包_哔哩轻小说",
+                  "type": "url",
+                  "url": "https://www.bilinovel.com/novel/2756/130755.html"
+               }, {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "0",
+                  "guid": "1b403022-8e53-4998-9bd6-5058963b92bd",
+                  "id": "15",
+                  "name": "正在播放《为了女儿，我说不定连魔王都能干掉。》第01集_为了女儿，我说不定连魔王都能干掉。高清HD在线观看_风车动漫",
+                  "type": "url",
+                  "url": "https://www.tt776a.com/play/3336-1-1.html"
+               }, {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "0",
+                  "guid": "f17d4a72-4745-4ed2-bb5b-ce55e5303550",
+                  "id": "16",
+                  "name": "史上最强大魔王转生为村民A 第1集(BD)—在线播放—樱花动漫",
+                  "type": "url",
+                  "url": "https://www.yhpdm.net/vp/22121-1-0.html"
+               }, {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "0",
+                  "guid": "e875baf0-5a86-4f13-972c-aacbb436ad40",
+                  "id": "17",
+                  "name": "新妹魔王的契约者 BD无修第01集在线播放_高清原碟 - E-ACG_动漫在线播放_无修动漫_E站",
+                  "type": "url",
+                  "url": "https://eacg.net/Comicplay/26681-2-1.html"
+               }, {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "0",
+                  "guid": "5d7ddcf1-6987-443d-8c25-62d7f27798a1",
+                  "id": "18",
+                  "name": "魔法禁书目录第01集在线播放_高清原碟 - E-ACG_动漫在线播放_无修动漫_E站",
+                  "type": "url",
+                  "url": "https://eacg.net/Comicplay/869-1-1.html"
+               }, {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "0",
+                  "guid": "6d54810a-c2da-4d56-99ab-f7321cd3f8ca",
+                  "id": "19",
+                  "name": "魔都精兵的奴隶~漫画-番外1 最新章节-{lastchapter} 在线畅快免费阅读-优乐漫画",
+                  "type": "url",
+                  "url": "https://www.beston-test.com/beschapter/7461/756553.html"
+               } ],
+               "date_added": "13362909916606226",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "57e97f5e-a461-43cc-9d3c-3fa5cb566753",
+               "id": "13",
+               "name": "动漫",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "0",
+                  "guid": "8f294786-b18f-4e3a-a3e6-9509a4a007cf",
+                  "id": "21",
+                  "name": "IEM Katowice 2023 - Liquipedia - The StarCraft II Encyclopedia",
+                  "type": "url",
+                  "url": "https://liquipedia.net/starcraft2/IEM_Katowice/2023"
+               }, {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "0",
+                  "guid": "52bdb298-6793-458a-932f-df7fe927b880",
+                  "id": "22",
+                  "name": "TJAPlayer3（皮肤、阶梯道场、下载）| 太子大师（太子吉郎，大吉郎，TJA播放器3）",
+                  "type": "url",
+                  "url": "https://www.syumimania.com/taikonotatsujin/tjaplayer3/#"
+               }, {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "0",
+                  "guid": "1fc1191c-7e09-4c99-ab6a-27c0d892b614",
+                  "id": "23",
+                  "name": "switch520全球游戏白嫖网-switch游戏下载-switch520游戏下载-switch破解游戏下载",
+                  "type": "url",
+                  "url": "https://www.520switch.com/"
+               }, {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "0",
+                  "guid": "e39a7a48-9e59-4123-ac25-1290a8775163",
+                  "id": "24",
+                  "name": "Nexus mods and community",
+                  "type": "url",
+                  "url": "https://www.nexusmods.com/"
+               }, {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "0",
+                  "guid": "dd36f2b5-fad2-4d1f-9b1e-5e999053025f",
+                  "id": "25",
+                  "name": "掌游网 - Switch中文游戏XCI下载",
+                  "type": "url",
+                  "url": "https://www.switchxiazai.com/index.html?type=XCI&page=1"
+               }, {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "0",
+                  "guid": "42f3ca06-15e1-4baa-8507-7b135fc9cc6a",
+                  "id": "26",
+                  "name": "街霸6 - sogamer",
+                  "type": "url",
+                  "url": "https://goodgamewiki.com/gameMain/62c53070c6e59e88f66c6054"
+               }, {
+                  "date_added": "13355991384000000",
+                  "date_last_used": "0",
+                  "guid": "cbe6a29a-193a-4179-bf55-d2a5e9844a56",
+                  "id": "27",
+                  "name": "Bishoujo Mangekyou -Norowareshi Densetsu no Shoujo- | vndb",
+                  "type": "url",
+                  "url": "https://vndb.org/r103584"
+               }, {
+                  "date_added": "13356610359000000",
+                  "date_last_used": "0",
+                  "guid": "f0933591-48a4-4d49-b9a6-3208923b591c",
+                  "id": "28",
+                  "name": "ROM猎人",
+                  "type": "url",
+                  "url": "https://www.yang2000ling.com/#/table/3dsch"
+               }, {
+                  "date_added": "13358185653000000",
+                  "date_last_used": "0",
+                  "guid": "e425f77b-57c2-48a1-bd7e-d2d019611973",
+                  "id": "29",
+                  "name": "系统主题 SYSTEM - EZ2ON REBOOT : R 中文 Wiki",
+                  "type": "url",
+                  "url": "https://clarilotus.github.io/ez2on/equips/theme/"
+               }, {
+                  "date_added": "13358334649000000",
+                  "date_last_used": "0",
+                  "guid": "c3e5b5f0-9282-4440-9680-1679184d6b7a",
+                  "id": "30",
+                  "name": "Cкачать игры на ПК [последние версии 2024] через торрент бесплатно",
+                  "type": "url",
+                  "url": "https://thebyrut.org/"
+               }, {
+                  "date_added": "13358622719000000",
+                  "date_last_used": "0",
+                  "guid": "6c2e3e7a-4237-4e6d-9ae8-e0b32b41baf2",
+                  "id": "31",
+                  "name": "电脑游戏-123智游乐园",
+                  "type": "url",
+                  "url": "https://www.123zygc.com/uncategorized"
+               }, {
+                  "date_added": "13358849524000000",
+                  "date_last_used": "0",
+                  "guid": "764c2151-5763-4dd3-bf4a-dd80f491373d",
+                  "id": "32",
+                  "name": "eMule官方 | eMule Fans 电骡爱好者",
+                  "type": "url",
+                  "url": "https://www.emulefans.com/news/emule/emule-official/"
+               }, {
+                  "date_added": "13358852071000000",
+                  "date_last_used": "0",
+                  "guid": "9fd67e15-5bf5-4f64-82e0-1d514e25632e",
+                  "id": "33",
+                  "name": "资源 | 极客VR论坛 - 国内最权威最系统的VR社区，元宇宙社区",
+                  "type": "url",
+                  "url": "https://gizvr.cn/forum/resources/"
+               }, {
+                  "date_added": "13359028307000000",
+                  "date_last_used": "0",
+                  "guid": "b5a91690-73f3-4461-b8a7-5e8eae1d1372",
+                  "id": "34",
+                  "name": "暴走VR-全网最全VR资源下载",
+                  "type": "url",
+                  "url": "https://www.baozouvr.com/"
+               } ],
+               "date_added": "13362909916606499",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "c131798e-916f-4908-89c5-803ee9c84fc7",
+               "id": "20",
+               "name": "游戏",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "0",
+                  "guid": "17e5e729-6b87-4d87-860c-614e27199840",
+                  "id": "36",
+                  "name": "致美化 - 最专业的视觉美化交流平台",
+                  "type": "url",
+                  "url": "https://zhutix.com/"
+               }, {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "0",
+                  "guid": "7e671c0d-a3a6-4e4f-a9e5-2ad2b884dea7",
+                  "id": "37",
+                  "name": "壁纸",
+                  "type": "url",
+                  "url": "https://wallhaven.cc/"
+               } ],
+               "date_added": "13362909916606703",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "034a4559-69b2-4b60-b0f1-dc9c228fb4db",
+               "id": "35",
+               "name": "美化",
+               "type": "folder"
+            } ],
+            "date_added": "13362909916605949",
+            "date_last_used": "0",
+            "date_modified": "13362909916605949",
+            "guid": "3bb94cf2-bfcc-4a87-b6c8-9605a8e5583d",
+            "id": "5",
+            "name": "娱乐",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "0",
+                  "guid": "e6253d45-7f7f-40f7-88f5-54b4fb3fcac5",
+                  "id": "40",
+                  "name": "神经传导通路 最全总结&吐血整理 （我的灵感源泉！！！）",
+                  "type": "url",
+                  "url": "https://zhuanlan.zhihu.com/p/496955255"
+               }, {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "0",
+                  "guid": "0f59630a-d2e5-40b0-ad8c-e48c3129eef1",
+                  "id": "41",
+                  "name": "【​Brain重磅综述】猜测人类大脑独特灵活性的奥秘：对皮质-基底节-小脑连接通路的新认识 - 知乎",
+                  "type": "url",
+                  "url": "https://zhuanlan.zhihu.com/p/108740210"
+               }, {
+                  "children": [ {
+                     "date_added": "13354787420000000",
+                     "date_last_used": "0",
+                     "guid": "6740492d-4ef9-48c0-932b-3423b8396add",
+                     "id": "43",
+                     "name": "ModelDB: Show Model",
+                     "type": "url",
+                     "url": "http://modeldb.science/showmodel?model=182906&tab=3"
+                  } ],
+                  "date_added": "13362909916606804",
+                  "date_last_used": "0",
+                  "date_modified": "0",
+                  "guid": "f100008e-be51-4d01-855e-5bd13896cb7c",
+                  "id": "42",
+                  "name": "nfms",
+                  "type": "folder"
+               }, {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "0",
+                  "guid": "e816ffb2-de5e-45e3-9bba-3a4dcb9b6186",
+                  "id": "44",
+                  "name": "bdtoolbox.org | Brain Dynamics Toolbox",
+                  "type": "url",
+                  "url": "https://bdtoolbox.org/"
+               }, {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "0",
+                  "guid": "91cb9a35-e0b6-4d06-8c0b-b7724df68368",
+                  "id": "45",
+                  "name": "NFTsim: Theory and Simulation of Multiscale Neural Field Dynamics | PLOS Computational Biology",
+                  "type": "url",
+                  "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006387"
+               }, {
+                  "date_added": "13359454511000000",
+                  "date_last_used": "0",
+                  "guid": "d3cc3bf3-d25b-4d8a-aa4f-4463508d5847",
+                  "id": "46",
+                  "name": "Installation · NetPyNE – Open source package for neuronal networks",
+                  "type": "url",
+                  "url": "https://www.netpyne.org/documentation/installation"
+               } ],
+               "date_added": "13362909916606743",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "ad1c9e65-805b-44b0-b67b-e60def96971e",
+               "id": "39",
+               "name": "脑神经建模",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "0",
+                  "guid": "edb2b166-6294-4b76-ab46-35431894465c",
+                  "id": "48",
+                  "name": "英语同义词",
+                  "type": "url",
+                  "url": "https://www.thesaurus.com/"
+               }, {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "0",
+                  "guid": "4e3e7432-179b-473c-b8ca-46d7e6fd21d3",
+                  "id": "49",
+                  "name": "MATLAB2021b详细安装教程_惜洛-Jankin的博客-CSDN博客",
+                  "type": "url",
+                  "url": "https://blog.csdn.net/qq_43108090/article/details/121357454?spm=1001.2101.3001.6650.10&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ERate-10-121357454-blog-126831583.pc_relevant_aa2&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ERate-10-121357454-blog-126831583.pc_relevant_aa2&utm_relevant_index=11"
+               }, {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "0",
+                  "guid": "410f9f36-8255-4adc-8e68-da2d0de5b5f7",
+                  "id": "50",
+                  "name": "爱科学 - 广州石瑧旗下网站 - 为科学工作者导航",
+                  "type": "url",
+                  "url": "https://www.iikx.com/"
+               }, {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "0",
+                  "guid": "69e4b837-03e7-4bf9-9e25-f1b8da6d8b82",
+                  "id": "51",
+                  "name": "最新SCI期刊查询及投稿分析系统（2021-2022年） - LetPub",
+                  "type": "url",
+                  "url": "http://www.letpub.com.cn/index.php?page=journalapp&view=search"
+               }, {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "0",
+                  "guid": "1ebbd937-1ce7-4aaf-906e-3e4b7460bf22",
+                  "id": "52",
+                  "name": "Google学术搜索_谷歌学术网址_大木虫学术导航",
+                  "type": "url",
+                  "url": "http://www.4243.net/"
+               }, {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "0",
+                  "guid": "04fdaf73-a2ee-424d-ae03-6744ca50ede9",
+                  "id": "53",
+                  "name": "CLINICAL NEUROPHYSIOLOGY_影响因子(IF)_中科院分区_SCI期刊投稿经验_爱科学",
+                  "type": "url",
+                  "url": "https://www.iikx.com/sci/medcine/11477.html"
+               }, {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "0",
+                  "guid": "5bbe17df-5084-497c-85f3-6d93aacf5d49",
+                  "id": "54",
+                  "name": "sci-hub文献检索",
+                  "type": "url",
+                  "url": "https://gfsoso.99lb.net/sci-hub.html"
+               }, {
+                  "date_added": "13360727552000000",
+                  "date_last_used": "0",
+                  "guid": "e3c6a523-fa86-4a55-8509-a58e42475926",
+                  "id": "55",
+                  "name": "最新SCI期刊影响因子查询及投稿分析系统（2022-2023年）- LetPub",
+                  "type": "url",
+                  "url": "https://www.letpub.com.cn/index.php?page=./journalapp"
+               } ],
+               "date_added": "13362909916606851",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "a59c446a-5aee-40d9-a291-470ae397a8ef",
+               "id": "47",
+               "name": "科研工具",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "0",
+                  "guid": "e9fb20d8-a9ca-4150-9f9c-456ebb4dd6b8",
+                  "id": "57",
+                  "name": "麻省理工癫痫头皮脑电图数据库",
+                  "type": "url",
+                  "url": "https://physionet.org/content/chbmit/1.0.0/"
+               }, {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "0",
+                  "guid": "11d6749c-5ec4-450f-bc07-b7d0efb67758",
+                  "id": "58",
+                  "name": "帕金森脑电数据PD",
+                  "type": "url",
+                  "url": "https://openneuro.org/datasets/ds002778/versions/1.0.5/download"
+               }, {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "0",
+                  "guid": "c7dfd87e-6c8d-4b10-ba4d-d06cf545a321",
+                  "id": "59",
+                  "name": "Data sets - BNCI Horizon 2020",
+                  "type": "url",
+                  "url": "http://bnci-horizon-2020.eu/database/data-sets"
+               }, {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "0",
+                  "guid": "81b3a425-63f3-43e9-b801-f523958f1540",
+                  "id": "60",
+                  "name": "ModelDBRepository/147366: Composite spiking network/neural field model of Parkinsons (Kerr et al 2013)",
+                  "type": "url",
+                  "url": "https://github.com/ModelDBRepository/147366"
+               }, {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "0",
+                  "guid": "11552a32-9af9-4c85-8ce8-599f35f50fe6",
+                  "id": "61",
+                  "name": "ModelDB: Models that contain MATLAB",
+                  "type": "url",
+                  "url": "http://modeldb.science/ModelList?id=36835"
+               }, {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "0",
+                  "guid": "305e6210-88a8-4ee2-a7b7-d49eaa3755b9",
+                  "id": "62",
+                  "name": "ModelDB: Show Model",
+                  "type": "url",
+                  "url": "http://modeldb.science/showmodel?model=182906"
+               } ],
+               "date_added": "13362909916607015",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "02c0f1eb-9a9c-497c-b26e-4e6d7b5dd3a7",
+               "id": "56",
+               "name": "数据库代码库模型库",
+               "type": "folder"
+            }, {
+               "date_added": "13354787420000000",
+               "date_last_used": "0",
+               "guid": "64eee020-1c27-4ad2-8e10-68ba8eb03105",
+               "id": "63",
+               "name": "基于基底神经节机理的行为决策模型",
+               "type": "url",
+               "url": "http://dlxykzxb.cnjournals.net/jdc/article/html/20191126001"
+            }, {
+               "date_added": "13354787420000000",
+               "date_last_used": "0",
+               "guid": "892dd508-bcec-4678-b121-32a9f327859e",
+               "id": "64",
+               "name": "Oracle | Cloud Applications and Cloud Platform",
+               "type": "url",
+               "url": "https://www.oracle.com/"
+            }, {
+               "date_added": "13354787420000000",
+               "date_last_used": "0",
+               "guid": "79312b80-9914-4d19-9426-6eb083a31ef5",
+               "id": "65",
+               "name": "The latest in Machine Learning | Papers With Code",
+               "type": "url",
+               "url": "https://paperswithcode.com/"
+            }, {
+               "children": [ {
+                  "date_added": "13359785142000000",
+                  "date_last_used": "0",
+                  "guid": "087d9219-834b-45ff-8ce8-6f37cb655b5f",
+                  "id": "67",
+                  "name": "Open Source Brain",
+                  "type": "url",
+                  "url": "https://v2.opensourcebrain.org/repositories/2243#"
+               }, {
+                  "date_added": "13359785145000000",
+                  "date_last_used": "0",
+                  "guid": "542d9f05-d80a-4915-8d47-a4640168f699",
+                  "id": "68",
+                  "name": "cmranieri/MarmosetModel: A Data-Driven Biophysical Computational Model of Parkinson’s Disease Based on Marmoset Monkeys",
+                  "type": "url",
+                  "url": "https://github.com/cmranieri/MarmosetModel/tree/main"
+               } ],
+               "date_added": "13362909916607143",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "08b49df3-5cc7-4b9f-b6e7-7c1c73113bca",
+               "id": "66",
+               "name": "pynet",
+               "type": "folder"
+            } ],
+            "date_added": "13362909916606738",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "b505508c-bc63-491b-bc35-58d43243485c",
+            "id": "38",
+            "name": "科研",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "0",
+                  "guid": "bb49a011-68bc-45db-9bff-bf2419ee5af0",
+                  "id": "71",
+                  "name": "fzf教程",
+                  "type": "url",
+                  "url": "https://andrew-quinn.me/fzf/"
+               }, {
+                  "date_added": "13358306926000000",
+                  "date_last_used": "0",
+                  "guid": "bd2f70e0-8e17-4eb6-a654-efe4f5ed6cd0",
+                  "id": "72",
+                  "name": "lazy.nvim快速起步 ",
+                  "type": "url",
+                  "url": "https://cloud-atlas.readthedocs.io/zh-cn/latest/linux/desktop/nvim/lazy.nvim/lazy.nvim_startup.html"
+               }, {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "0",
+                  "guid": "8584ce14-8984-4ea1-a86b-6532b682ce4a",
+                  "id": "73",
+                  "name": "(9条消息) 【Linux】vim使用小技巧_vi退出搜索_默默走开的博客-CSDN博客",
+                  "type": "url",
+                  "url": "https://blog.csdn.net/qq_43733123/article/details/103416058"
+               }, {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "0",
+                  "guid": "5d161759-b345-41aa-b4da-af3e777f3765",
+                  "id": "74",
+                  "name": "Neovim+Coc.nvim配置 目前个人最舒服终端编辑环境(Python&C++) - zprhhs - 博客园",
+                  "type": "url",
+                  "url": "https://www.cnblogs.com/cniwoq/p/13272746.html"
+               }, {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "0",
+                  "guid": "f424a7c1-5a27-4b41-ad2e-5658a29ff11f",
+                  "id": "75",
+                  "name": "Vim Awesome",
+                  "type": "url",
+                  "url": "https://vimawesome.com/"
+               }, {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "0",
+                  "guid": "a27acc2e-a73a-48f6-a616-626b335e48a1",
+                  "id": "76",
+                  "name": "Vim安装gruvbox配色教程，切换黑暗模式_gruvbox vim_airyv的博客-CSDN博客",
+                  "type": "url",
+                  "url": "https://blog.csdn.net/wilde123/article/details/125744717"
+               }, {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "0",
+                  "guid": "ba89bedb-6047-48a0-8799-b20c344a4784",
+                  "id": "77",
+                  "name": "(12条消息) 如何更新neovim以及安装指定版本_neovim 更新_DmrForever的博客-CSDN博客",
+                  "type": "url",
+                  "url": "https://blog.csdn.net/SteveForever/article/details/124896792"
+               }, {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "0",
+                  "guid": "bd70cbb5-2101-4b8e-becd-0e415a7b259c",
+                  "id": "78",
+                  "name": "Ubuntu: Default Alacritty terminal for WSL2",
+                  "type": "url",
+                  "url": "https://copyprogramming.com/howto/default-alacritty-terminal-for-wsl2#default-alacritty-terminal-for-wsl2"
+               }, {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "0",
+                  "guid": "2b884db1-4a0d-4148-adad-3e63659706b3",
+                  "id": "79",
+                  "name": "oh-my-zsh + tmux 配置完美终端环境 - 知乎",
+                  "type": "url",
+                  "url": "https://zhuanlan.zhihu.com/p/539566646"
+               }, {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "0",
+                  "guid": "e2deebf2-a9bd-4c99-8a5c-175a24257161",
+                  "id": "80",
+                  "name": "(12条消息) TS：解决win10的wsl2下Ubuntu系统里中文乱码问题(已解决)-2022.3.14_wsl乱码_一念一生～one的博客-CSDN博客",
+                  "type": "url",
+                  "url": "https://blog.csdn.net/weixin_39246554/article/details/123487843"
+               }, {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "0",
+                  "guid": "e981ccca-6aec-477a-9b99-91746ed3ad8c",
+                  "id": "81",
+                  "name": "nvim-lua中文教程",
+                  "type": "url",
+                  "url": "https://github.com/glepnir/nvim-lua-guide-zh"
+               }, {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "0",
+                  "guid": "91d1a7b3-6bb9-42ec-843c-102f583dd000",
+                  "id": "82",
+                  "name": "Collections of awesome neovim plugins.",
+                  "type": "url",
+                  "url": "https://github.com/rockerBOO/awesome-neovim"
+               }, {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "0",
+                  "guid": "961907d8-a512-466d-993a-a416b1e3d185",
+                  "id": "83",
+                  "name": "coc - npm search",
+                  "type": "url",
+                  "url": "https://www.npmjs.com/search?q=coc"
+               }, {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "0",
+                  "guid": "632aec31-648b-4e5d-89fd-48402776dc88",
+                  "id": "84",
+                  "name": "用 Neovim 代替 IDEA, VS Code 和 MS Office - 知乎",
+                  "type": "url",
+                  "url": "https://zhuanlan.zhihu.com/p/626201043"
+               }, {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "0",
+                  "guid": "580a6fa0-2154-4ec8-b730-8fca96e6d678",
+                  "id": "85",
+                  "name": "VSCode Neovim插件配置——将VSCode作为Neovim的GUI客户端 | 止息'幻想乡",
+                  "type": "url",
+                  "url": "https://zhangjk98.xyz/vscode-neovim-setting/"
+               } ],
+               "date_added": "13362909916607176",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "6862e044-513f-4011-b238-d08440335e6e",
+               "id": "70",
+               "name": "vim",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "0",
+                  "guid": "921c2405-9478-402d-b424-dbfdc892f3f7",
+                  "id": "87",
+                  "name": " - ArchWiki",
+                  "type": "url",
+                  "url": "https://wiki.archlinux.org/title/Localization/Simplified_Chinese"
+               }, {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "0",
+                  "guid": "adb52282-d6b7-4219-a672-4a6652bb9ef9",
+                  "id": "88",
+                  "name": "Arch Linux下Hyprland配置 | Ticks的博客",
+                  "type": "url",
+                  "url": "https://blog.ticks.cc/posts/id/37hugsk/"
+               }, {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "0",
+                  "guid": "8d94f261-5de0-4408-8cb3-b6bbfe92c5a8",
+                  "id": "89",
+                  "name": "字体配置/中文 - Arch Linux 中文维基",
+                  "type": "url",
+                  "url": "https://wiki.archlinuxcn.org/wiki/%E5%AD%97%E4%BD%93%E9%85%8D%E7%BD%AE/%E4%B8%AD%E6%96%87"
+               }, {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "0",
+                  "guid": "7f064559-c055-437d-bb4e-19febc9e2114",
+                  "id": "90",
+                  "name": "AyaMark",
+                  "type": "url",
+                  "url": "https://mark.aya1.pro/BRfg"
+               }, {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "0",
+                  "guid": "3fc6e27b-829a-4ced-84e4-8a1939d265c0",
+                  "id": "91",
+                  "name": "Rust编程之给cargo替换国内源_cargo 国内源_没刮胡子的博客-CSDN博客",
+                  "type": "url",
+                  "url": "https://blog.csdn.net/somken/article/details/129145764?spm=1001.2101.3001.6650.1&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1-129145764-blog-108740719.235%5Ev32%5Epc_relevant_default_base3&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1-129145764-blog-108740719.235%5Ev32%5Epc_relevant_default_base3&utm_relevant_index=2"
+               }, {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "0",
+                  "guid": "5f47a3c0-b9f2-4fb9-8d34-79f38c450a18",
+                  "id": "92",
+                  "name": "yay安装失败的解决方案 - 知乎",
+                  "type": "url",
+                  "url": "https://zhuanlan.zhihu.com/p/439805266?utm_id=0"
+               }, {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "0",
+                  "guid": "362f7197-5001-42bd-8a95-69775e8764be",
+                  "id": "93",
+                  "name": "archlinux neovim Clipboard支持_archlinux neovim 默认_ITKEY_的博客-CSDN博客",
+                  "type": "url",
+                  "url": "https://blog.csdn.net/lxyoucan/article/details/124326933"
+               }, {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "13362911309627958",
+                  "guid": "98ec782b-ddf6-4b24-9d9a-fb9a1f5539f3",
+                  "id": "94",
+                  "name": "自由软件运动Arch Linux 安装使用教程 - ArchTutorial - Arch Linux Studio",
+                  "type": "url",
+                  "url": "https://archlinuxstudio.github.io/ArchLinuxTutorial/#/"
+               }, {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "0",
+                  "guid": "5797668d-844f-4939-bde4-1bab626c885d",
+                  "id": "95",
+                  "name": "快速上手 - v2rayA",
+                  "type": "url",
+                  "url": "https://v2raya.org/docs/prologue/quick-start/"
+               }, {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "0",
+                  "guid": "0e5837a1-fff7-4ba1-89e4-bcf7dee0c355",
+                  "id": "96",
+                  "name": "cc",
+                  "type": "url",
+                  "url": "https://yaocc.cc/"
+               }, {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "0",
+                  "guid": "076ee1c2-882d-4b4d-bcce-6c73380bc76b",
+                  "id": "97",
+                  "name": "SuperCopy 超级复制 - Chrome 应用商店",
+                  "type": "url",
+                  "url": "https://chrome.google.com/webstore/detail/supercopy-enable-copy/onepmapfbjohnegdmfhndpefjkppbjkm/related"
+               }, {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "0",
+                  "guid": "1144a277-6965-4cc0-9249-a761d658bac1",
+                  "id": "98",
+                  "name": "davatorium/rofi：Rofi：窗口切换器、应用程序启动器和 dmenu 替代品",
+                  "type": "url",
+                  "url": "https://github.com/davatorium/rofi"
+               }, {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "0",
+                  "guid": "e65165c9-72f1-41a0-8324-1f5cbee0e492",
+                  "id": "99",
+                  "name": "DTOS / DTOS · GitLab",
+                  "type": "url",
+                  "url": "https://gitlab.com/dtos/dtos"
+               }, {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "0",
+                  "guid": "c7f50cb8-2972-4d12-98bb-8c935c134782",
+                  "id": "100",
+                  "name": "Linux pwd命令 | 菜鸟教程",
+                  "type": "url",
+                  "url": "https://www.runoob.com/linux/linux-comm-pwd.html"
+               }, {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "0",
+                  "guid": "b6adbe98-a09b-4ea7-92d6-3a37fb9670e0",
+                  "id": "101",
+                  "name": "Anaconda介绍、安装及使用教程 - 知乎",
+                  "type": "url",
+                  "url": "https://zhuanlan.zhihu.com/p/32925500"
+               }, {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "0",
+                  "guid": "7a0a3756-58d8-49d5-9080-0ba86a00a691",
+                  "id": "102",
+                  "name": "archlinux配置Java环境_archlinux安装java_ITKEY_的博客-CSDN博客",
+                  "type": "url",
+                  "url": "https://blog.csdn.net/lxyoucan/article/details/115275953"
+               }, {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "0",
+                  "guid": "f51e7869-3df8-4945-a38f-efffd34b2802",
+                  "id": "103",
+                  "name": "WSL2使用入门和C++刷题环境配置(Ubuntu) - 掘金",
+                  "type": "url",
+                  "url": "https://juejin.cn/post/7196517835379081277"
+               }, {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "0",
+                  "guid": "bcdb2dcc-c11a-4802-beee-db235ec92682",
+                  "id": "104",
+                  "name": "蓝牙 - Arch Linux 中文维基",
+                  "type": "url",
+                  "url": "https://wiki.archlinuxcn.org/zh/%E8%93%9D%E7%89%99#PulseAudio"
+               }, {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "0",
+                  "guid": "2dc586e3-470d-4624-9785-efb10b154453",
+                  "id": "105",
+                  "name": "WSL2配置代理 - Leaos - 博客园",
+                  "type": "url",
+                  "url": "https://www.cnblogs.com/tuilk/p/16287472.html"
+               }, {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "0",
+                  "guid": "9b791ebf-f2ac-4be5-b416-2ea0f7a3a82e",
+                  "id": "106",
+                  "name": "使用 WSL 添加或连接数据库 | Microsoft Learn",
+                  "type": "url",
+                  "url": "https://learn.microsoft.com/zh-cn/windows/wsl/tutorials/wsl-database"
+               }, {
+                  "date_added": "13354943839000000",
+                  "date_last_used": "0",
+                  "guid": "f4291b93-98f7-4cdc-9a55-d1b7e1e38b4f",
+                  "id": "107",
+                  "name": "Arch Linux 美化 (st + dwm)_dwm美化-CSDN博客",
+                  "type": "url",
+                  "url": "https://blog.csdn.net/weixin_44335269/article/details/117930190"
+               }, {
+                  "date_added": "13354946964000000",
+                  "date_last_used": "0",
+                  "guid": "8bb30831-200b-4c60-b866-032b85ca7322",
+                  "id": "108",
+                  "name": "25 个 Linux 下最炫酷又强大的命令行神器 - 知乎",
+                  "type": "url",
+                  "url": "https://zhuanlan.zhihu.com/p/401429004"
+               }, {
+                  "date_added": "13355409511000000",
+                  "date_last_used": "0",
+                  "guid": "8f4f155e-33b9-4d86-89ca-83a8fec934eb",
+                  "id": "109",
+                  "name": "linux-idea全家桶破解",
+                  "type": "url",
+                  "url": "https://www.yuque.com/ningmengna-6ulrv/whpu0w/mhu93k6kkv51kgi8"
+               }, {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "13362911370276087",
+                  "guid": "0591bc72-afc2-4e2f-a82d-854da5b08e2e",
+                  "id": "110",
+                  "name": "archlinux 简明指南",
+                  "type": "url",
+                  "url": "https://arch.icekylin.online/"
+               }, {
+                  "date_added": "13355554097000000",
+                  "date_last_used": "0",
+                  "guid": "4f34cdc3-3570-4719-b227-6e7ba88d2ef5",
+                  "id": "111",
+                  "name": "主页 - 💘 Ocyss 的博客",
+                  "type": "url",
+                  "url": "https://ocyss.icu/"
+               }, {
+                  "date_added": "13362565660000000",
+                  "date_last_used": "0",
+                  "guid": "506bcab5-c873-48d5-938b-2c040319aeb8",
+                  "id": "112",
+                  "name": "Linux命令搜索引擎 ",
+                  "type": "url",
+                  "url": "https://wangchujiang.com/linux-command/"
+               } ],
+               "date_added": "13362909916607412",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "5c7b0fb7-099f-4844-b6b1-966c5764cd3e",
+               "id": "86",
+               "name": "linux",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "0",
+                  "guid": "07ccd715-f6c1-405e-825c-cd7a53113fc1",
+                  "id": "114",
+                  "name": "Spring6语雀笔记密码mg9b",
+                  "type": "url",
+                  "url": "https://www.yuque.com/dujubin/ltckqu/kipzgd?singleDoc#"
+               }, {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "0",
+                  "guid": "7bfedd3f-18e6-49ea-a579-74b50de11b63",
+                  "id": "115",
+                  "name": "2023最新Java学习路线 - 哔哩哔哩",
+                  "type": "url",
+                  "url": "https://www.bilibili.com/read/cv5216534/"
+               }, {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "0",
+                  "guid": "d9077718-5705-4bf2-8725-8c724a8634c1",
+                  "id": "116",
+                  "name": "2023年Java学习路线【超详细超实用】 - 哔哩哔哩",
+                  "type": "url",
+                  "url": "https://www.bilibili.com/read/cv6395168/"
+               }, {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "0",
+                  "guid": "5138cd0f-1007-44b8-93d5-17d6823d1e9f",
+                  "id": "117",
+                  "name": "MyBatis中文网",
+                  "type": "url",
+                  "url": "https://mybatis.net.cn/"
+               }, {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "0",
+                  "guid": "3d07a3e2-bccf-482c-af19-369f0bae7f79",
+                  "id": "118",
+                  "name": "基本JDBC数据库连接技术",
+                  "type": "url",
+                  "url": "https://www.wolai.com/4SyaBmWpcQhVKae3oKjuNC"
+               }, {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "0",
+                  "guid": "c015a7d6-3ed9-40e0-ba33-77bbb6df984a",
+                  "id": "119",
+                  "name": "Java程序员学习路线图_黑马程序员2024版java学习路线",
+                  "type": "url",
+                  "url": "https://yun.itheima.com/subject/javamap/index.html?hm-pc-dh"
+               }, {
+                  "date_added": "13355284963000000",
+                  "date_last_used": "0",
+                  "guid": "1c637066-1dbf-4f2d-adfc-0808e5c6a619",
+                  "id": "120",
+                  "name": "主页 | 顶尖架构师栈",
+                  "type": "url",
+                  "url": "https://arcstack.top/"
+               }, {
+                  "date_added": "13355664980000000",
+                  "date_last_used": "0",
+                  "guid": "3e132b4a-3637-47e7-8bdd-4595183f89e0",
+                  "id": "121",
+                  "name": "Hexo",
+                  "type": "url",
+                  "url": "https://hexo.io/zh-cn/index.html"
+               }, {
+                  "date_added": "13359652411000000",
+                  "date_last_used": "0",
+                  "guid": "5965bd41-75da-4fb2-9ff3-d69d1838afb6",
+                  "id": "122",
+                  "name": "Java 面试指南 | JavaGuide",
+                  "type": "url",
+                  "url": "https://javaguide.cn/"
+               }, {
+                  "date_added": "13359958981000000",
+                  "date_last_used": "0",
+                  "guid": "7fe5d1fd-81a0-4cdd-acae-51bc2f773809",
+                  "id": "123",
+                  "name": "java面试指北密码cnk4",
+                  "type": "url",
+                  "url": "https://www.yuque.com/snailclimb/mf2z3k/vfvgmz#"
+               }, {
+                  "date_added": "13355821238000000",
+                  "date_last_used": "0",
+                  "guid": "5815f152-0926-4a24-b8d5-3a07612c6913",
+                  "id": "124",
+                  "name": "知识星球 ",
+                  "type": "url",
+                  "url": "https://wx.zsxq.com/dweb2/index/group/48418884588288"
+               } ],
+               "date_added": "13362909916607780",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "ac0777e6-88b7-40e1-aa73-94857383be8d",
+               "id": "113",
+               "name": "java",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "0",
+                  "guid": "0c37beed-d1b2-4d4b-91f0-f21d6bb229ac",
+                  "id": "126",
+                  "name": "视频同步笔记：狂神聊Git",
+                  "type": "url",
+                  "url": "https://mp.weixin.qq.com/s/Bf7uVhGiu47uOELjmC5uXQ"
+               }, {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "0",
+                  "guid": "2129907c-8f67-4a24-a5f2-d8acffa0cd0a",
+                  "id": "127",
+                  "name": "Maven Repository: Search/Browse/Explore",
+                  "type": "url",
+                  "url": "https://mvnrepository.com/"
+               }, {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "0",
+                  "guid": "cf477bc7-dc10-431f-b9a5-b19a2349fc8c",
+                  "id": "128",
+                  "name": "3000+小时积累的学习工作流 - 少数派",
+                  "type": "url",
+                  "url": "https://sspai.com/post/75969"
+               }, {
+                  "date_added": "13354857758000000",
+                  "date_last_used": "0",
+                  "guid": "ac8ead77-11da-4e30-a08e-a721ffdd05b9",
+                  "id": "129",
+                  "name": "Redis",
+                  "type": "url",
+                  "url": "https://redis.io/"
+               }, {
+                  "date_added": "13354861350000000",
+                  "date_last_used": "0",
+                  "guid": "52514039-317f-49d6-8095-9057c7f1a4dd",
+                  "id": "130",
+                  "name": "Redis中文网",
+                  "type": "url",
+                  "url": "https://www.redis.net.cn/"
+               }, {
+                  "date_added": "13355424852000000",
+                  "date_last_used": "0",
+                  "guid": "b1137393-5b57-46a7-bcc8-34081d36ecf1",
+                  "id": "131",
+                  "name": "Git 的使用——提交避免输入用户名和密码",
+                  "type": "url",
+                  "url": "https://zhuanlan.zhihu.com/p/358721423"
+               }, {
+                  "date_added": "13355553262000000",
+                  "date_last_used": "0",
+                  "guid": "dd232aec-eaa3-4c87-b348-05d029301434",
+                  "id": "132",
+                  "name": "将本地托管代码添加到 GitHub - GitHub 文档",
+                  "type": "url",
+                  "url": "https://docs.github.com/zh/migrations/importing-source-code/using-the-command-line-to-import-source-code/adding-locally-hosted-code-to-github#%E5%85%B3%E4%BA%8E%E5%B0%86%E7%8E%B0%E6%9C%89%E6%BA%90%E4%BB%A3%E7%A0%81%E6%B7%BB%E5%8A%A0%E5%88%B0-github"
+               }, {
+                  "date_added": "13355568760000000",
+                  "date_last_used": "0",
+                  "guid": "2eede702-dc92-438c-a7ec-6e35d27fa665",
+                  "id": "133",
+                  "name": "docker笔记",
+                  "type": "url",
+                  "url": "https://b11et3un53m.feishu.cn/wiki/MWQIw4Zvhil0I5ktPHwcoqZdnec"
+               }, {
+                  "date_added": "13355569957000000",
+                  "date_last_used": "0",
+                  "guid": "05ff5b3f-aac4-4e8e-a954-6cebd5a7ae1a",
+                  "id": "134",
+                  "name": "Docker Hub Container Image Library ",
+                  "type": "url",
+                  "url": "https://hub.docker.com/"
+               } ],
+               "date_added": "13362909916607958",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "77a3c374-2c1d-44f9-b4c8-3229206eecf3",
+               "id": "125",
+               "name": "工具微服务",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "0",
+                  "guid": "d976e560-ca06-440e-b612-9c648a3544e7",
+                  "id": "136",
+                  "name": "LiuKairui's Blog - 整点薯条",
+                  "type": "url",
+                  "url": "https://blog.liukairui.me/"
+               }, {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "0",
+                  "guid": "9cb3111e-589f-4511-84ad-2c93c47938d2",
+                  "id": "137",
+                  "name": "w3school 在线教程",
+                  "type": "url",
+                  "url": "https://www.w3school.com.cn/"
+               }, {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "0",
+                  "guid": "0c9cdbd7-ff49-422d-a32e-ed2d5ba3ed0d",
+                  "id": "138",
+                  "name": "jquery - npm search",
+                  "type": "url",
+                  "url": "https://www.npmjs.com/search?q=jquery"
+               }, {
+                  "date_added": "13355128667000000",
+                  "date_last_used": "0",
+                  "guid": "f72d0baf-3644-49d2-94f0-62f2a12b9679",
+                  "id": "139",
+                  "name": "Axios中文文档 | Axios中文网",
+                  "type": "url",
+                  "url": "https://www.axios-http.cn/"
+               }, {
+                  "date_added": "13355202853000000",
+                  "date_last_used": "0",
+                  "guid": "c19958aa-18c9-4ce1-98dc-1c3edfd83be3",
+                  "id": "140",
+                  "name": "Vue.js - 渐进式 JavaScript 框架 | Vue.js",
+                  "type": "url",
+                  "url": "https://cn.vuejs.org/"
+               }, {
+                  "date_added": "13355223422000000",
+                  "date_last_used": "0",
+                  "guid": "c9c850c3-8540-42b8-a684-a4beca0879fa",
+                  "id": "141",
+                  "name": "一个 Vue 3 UI 框架 | Element Plus",
+                  "type": "url",
+                  "url": "https://element-plus.org/zh-CN/"
+               }, {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "0",
+                  "guid": "5716c1a1-78c4-4ecf-87e2-d1f660c82555",
+                  "id": "162",
+                  "name": "组件 | Element",
+                  "type": "url",
+                  "url": "https://element.eleme.cn/#/zh-CN/component/installation"
+               } ],
+               "date_added": "13362909916608107",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "6d53818a-9c37-4033-8c03-fbcbcee3fca4",
+               "id": "135",
+               "name": "前端",
+               "type": "folder"
+            }, {
+               "date_added": "13354787420000000",
+               "date_last_used": "0",
+               "guid": "118e6cf0-c71a-4025-8968-9b42acf073fd",
+               "id": "142",
+               "name": "Standford CS自学指南",
+               "type": "url",
+               "url": "https://csdiy.wiki/%E6%95%B0%E5%AD%A6%E8%BF%9B%E9%98%B6/convex/"
+            }, {
+               "children": [ {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "0",
+                  "guid": "41da95e7-9919-4ab2-940b-aef0f92df491",
+                  "id": "144",
+                  "name": "Hacker News",
+                  "type": "url",
+                  "url": "https://news.ycombinator.com/news"
+               }, {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "0",
+                  "guid": "6152b2d9-37a1-4fc1-8857-71e51fd5f327",
+                  "id": "145",
+                  "name": "(34 条消息) Hacker News - 知乎",
+                  "type": "url",
+                  "url": "https://www.zhihu.com/topic/19578400/hot"
+               }, {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "0",
+                  "guid": "cb134a6f-7e1d-490e-ba5e-9d8491a819e6",
+                  "id": "146",
+                  "name": "SegmentFault 思否",
+                  "type": "url",
+                  "url": "https://segmentfault.com/###"
+               }, {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "0",
+                  "guid": "145609a6-2b2f-4702-943d-202243254eb0",
+                  "id": "147",
+                  "name": "Stack Overflow - Where Developers Learn, Share, & Build Careers",
+                  "type": "url",
+                  "url": "https://stackoverflow.com/?newreg=0587a01216c648eea37d3e918c17146f"
+               }, {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "0",
+                  "guid": "bff810b0-ccd0-4997-95fb-709d17c08ad8",
+                  "id": "148",
+                  "name": "稀土掘金",
+                  "type": "url",
+                  "url": "https://juejin.cn/"
+               }, {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "0",
+                  "guid": "5e790460-7269-4dcb-a7ff-c4a5820fdca5",
+                  "id": "149",
+                  "name": "Newest 'dwm' Questions - Stack Overflow",
+                  "type": "url",
+                  "url": "https://stackoverflow.com/questions/tagged/dwm"
+               }, {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "0",
+                  "guid": "4a6431e6-9417-403a-8b88-a03e15b95efd",
+                  "id": "150",
+                  "name": "语言排名",
+                  "type": "url",
+                  "url": "https://www.tiobe.com/tiobe-index/"
+               } ],
+               "date_added": "13362909916608189",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "3c38acc8-a5ac-4a6e-aa44-c677b0a0728e",
+               "id": "143",
+               "name": "资讯网站",
+               "type": "folder"
+            }, {
+               "date_added": "13354787420000000",
+               "date_last_used": "0",
+               "guid": "9c8719c5-79f2-4899-9ad5-99381cd1a66d",
+               "id": "151",
+               "name": "菜鸟教程 - 学的不仅是技术，更是梦想！",
+               "type": "url",
+               "url": "https://www.runoob.com/"
+            }, {
+               "children": [ {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "0",
+                  "guid": "08e08f2e-712f-47cc-8cc0-f16b708c8faf",
+                  "id": "153",
+                  "name": "C 在线工具 | 菜鸟工具",
+                  "type": "url",
+                  "url": "https://c.runoob.com/compile/11"
+               } ],
+               "date_added": "13362909916608275",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "5de47f9d-8db7-43ec-ba3d-319913722f68",
+               "id": "152",
+               "name": "C",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "0",
+                  "guid": "4bfa2f40-bf5d-49d6-ad07-77614bdf0749",
+                  "id": "155",
+                  "name": "Lua 基本语法 | 菜鸟教程",
+                  "type": "url",
+                  "url": "https://www.runoob.com/lua/lua-basic-syntax.html"
+               } ],
+               "date_added": "13362909916608292",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "0a74a2cb-f53d-4884-8474-fcfcde51fbc5",
+               "id": "154",
+               "name": "lua",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "0",
+                  "guid": "abe772df-bd6c-4d84-8b13-592144e1107b",
+                  "id": "157",
+                  "name": "Markdown 分隔线语法 | Markdown 官方教程",
+                  "type": "url",
+                  "url": "https://markdown.com.cn/basic-syntax/horizontal-rules.html"
+               }, {
+                  "date_added": "13360146296000000",
+                  "date_last_used": "0",
+                  "guid": "b302010d-3129-4749-b6f4-f8d97b101528",
+                  "id": "158",
+                  "name": "你只管 Markdown，它帮你 PPT：用 Deckset 一键生成精美幻灯片 - 少数派",
+                  "type": "url",
+                  "url": "https://client.sspai.com/post/71776#!"
+               }, {
+                  "date_added": "13360149871000000",
+                  "date_last_used": "0",
+                  "guid": "fb245e6a-3beb-4d76-b85d-44126f311268",
+                  "id": "159",
+                  "name": "Marp: Markdown Presentation Ecosystem",
+                  "type": "url",
+                  "url": "https://marp.app/"
+               } ],
+               "date_added": "13362909916608307",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "b7eef7f6-6b45-4b9b-a12e-b9d6609728ca",
+               "id": "156",
+               "name": "markdown",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "0",
+                  "guid": "9a255d89-7f75-408b-9f10-08ec634468df",
+                  "id": "161",
+                  "name": "the-way-to-go_ZH_CN/eBook/preface.md at master · unknwon/the-way-to-go_ZH_CN",
+                  "type": "url",
+                  "url": "https://github.com/unknwon/the-way-to-go_ZH_CN/blob/master/eBook/preface.md"
+               } ],
+               "date_added": "13362909916608352",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "354e5cab-c91a-410e-9767-97d2d13776c0",
+               "id": "160",
+               "name": "go",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "0",
+                  "guid": "08a20959-2c90-46ad-980e-9821658c808f",
+                  "id": "164",
+                  "name": "1、SpringBoot3-快速入门",
+                  "type": "url",
+                  "url": "https://www.yuque.com/leifengyang/springboot3/vznmdeb4kgn90vrx"
+               } ],
+               "date_added": "13362909916608386",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "5e7d1520-8a47-4bda-9882-7b3b2c049a4c",
+               "id": "163",
+               "name": "springboot",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "0",
+                  "guid": "361a3027-f6ca-4e6a-aa35-a75d8a4807a7",
+                  "id": "166",
+                  "name": "(8条消息) Typora快捷键汇总_typora设置光标快捷键上下左右移动(详细)_Yuki_fx的博客-CSDN博客",
+                  "type": "url",
+                  "url": "https://blog.csdn.net/Yuki_fx/article/details/104122544"
+               }, {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "0",
+                  "guid": "ba10c93c-9ab4-493e-86ce-eb5fdcb33d05",
+                  "id": "167",
+                  "name": "(9条消息) Typora数学公式大全_typora支持什么数学公式_Tom Z的博客-CSDN博客",
+                  "type": "url",
+                  "url": "https://blog.csdn.net/Small_Tsky/article/details/106799380"
+               }, {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "0",
+                  "guid": "9ffd25e0-bee0-4e22-a534-8f351b89daf4",
+                  "id": "168",
+                  "name": "(11条消息) Typora中使用PicGo上传图片至GitHub仓库_typora上传图片到github_梦中生花的博客-CSDN博客",
+                  "type": "url",
+                  "url": "https://blog.csdn.net/qwe14325/article/details/128275544"
+               } ],
+               "date_added": "13362909916608430",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "6fe234e2-833d-4fb8-a430-1a7efd7d89ca",
+               "id": "165",
+               "name": "常用软件",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13359175813000000",
+                  "date_last_used": "0",
+                  "guid": "39934830-db9b-4956-8100-31a94ffb1852",
+                  "id": "170",
+                  "name": "me-protoss-github-io - Overview – Vercel",
+                  "type": "url",
+                  "url": "https://vercel.com/meprotoss-projects/me-protoss-github-io/settings/domains"
+               }, {
+                  "date_added": "13359175836000000",
+                  "date_last_used": "0",
+                  "guid": "d7a444d9-551e-4c7d-b124-c5cd4933c5de",
+                  "id": "171",
+                  "name": "域名解析-西部数码管理中心",
+                  "type": "url",
+                  "url": "https://www.west.cn/manager/domainnew/rsall.asp?domainid=44304510"
+               }, {
+                  "date_added": "13359454475000000",
+                  "date_last_used": "0",
+                  "guid": "e78ff5c6-077c-407e-a1d0-7f68cae03316",
+                  "id": "172",
+                  "name": "Hexo",
+                  "type": "url",
+                  "url": "https://hexo.io/zh-cn/"
+               }, {
+                  "date_added": "13359454461000000",
+                  "date_last_used": "0",
+                  "guid": "a5dd2ca9-2286-460c-83fe-81ba38802d1c",
+                  "id": "173",
+                  "name": "写作 | Hexo",
+                  "type": "url",
+                  "url": "https://hexo.io/zh-cn/docs/writing#%E6%96%87%E4%BB%B6%E5%90%8D%E7%A7%B0"
+               } ],
+               "date_added": "13362909916608513",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "e3f467e2-1577-4291-8469-dc4e25d2b61c",
+               "id": "169",
+               "name": "blog",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13359452834000000",
+                  "date_last_used": "0",
+                  "guid": "b70ee16e-854c-4670-8f56-e624ee0d33cb",
+                  "id": "175",
+                  "name": "自学SQL网(教程 视频 练习全套)",
+                  "type": "url",
+                  "url": "http://xuesql.cn/"
+               } ],
+               "date_added": "13362909916608569",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "c2666adf-289f-487f-9e28-e6335a700fc3",
+               "id": "174",
+               "name": "mysql",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13362573318000000",
+                  "date_last_used": "0",
+                  "guid": "922793ef-5746-4312-af8e-ede831fd09ae",
+                  "id": "177",
+                  "name": "通过动画可视化数据结构和算法",
+                  "type": "url",
+                  "url": "https://visualgo.net/zh"
+               } ],
+               "date_added": "13362909916608584",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "e587c476-7c3f-435f-940f-12e87d1ebe4c",
+               "id": "176",
+               "name": "数据结构和算法",
+               "type": "folder"
+            } ],
+            "date_added": "13362909916607169",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "0c478479-966d-4d07-a4e8-28a6418669c6",
+            "id": "69",
+            "name": "编程学习",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "0",
+                  "guid": "81c1066a-edb9-460f-a39d-6e4954e8e805",
+                  "id": "180",
+                  "name": "Windows 10/11 家庭中文版/单语言版如何更改系统语言？ - 吾晓科技",
+                  "type": "url",
+                  "url": "https://www.pcoic.com/system/windows/3468.html"
+               }, {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "0",
+                  "guid": "144efb80-06b0-4e08-958c-766b96062e55",
+                  "id": "181",
+                  "name": "win10下如何关闭笔记本自带键盘？ - 知乎",
+                  "type": "url",
+                  "url": "https://www.zhihu.com/question/36434420"
+               } ],
+               "date_added": "13362909916608611",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "b032b175-cd17-4299-ab1b-bef9fb62a0b9",
+               "id": "179",
+               "name": "电脑的疑难杂症",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "0",
+                  "guid": "3dc9c8a1-7808-4df9-b943-3cc70b9451e1",
+                  "id": "183",
+                  "name": "typingClub",
+                  "type": "url",
+                  "url": "https://www.typingclub.com/sportal/program-3.game"
+               }, {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "0",
+                  "guid": "584b0220-ac13-45cb-9f6d-a0135855df0f",
+                  "id": "184",
+                  "name": "在线绘图",
+                  "type": "url",
+                  "url": "https://www.processon.com/trash"
+               }, {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "0",
+                  "guid": "e1b51c81-50a4-4086-a31a-eeb008cccb4a",
+                  "id": "185",
+                  "name": "PDF转html——免费在线PDF转换成html转换器",
+                  "type": "url",
+                  "url": "http://www.pdfdo.com/pdf-to-html.aspx"
+               }, {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "0",
+                  "guid": "613743e0-0de9-4137-a58e-e170b9a6eaf0",
+                  "id": "186",
+                  "name": "youtub视频在线下载",
+                  "type": "url",
+                  "url": "https://www.clipconverter.cc/convert/VwBPIfr-/"
+               }, {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "0",
+                  "guid": "00f40395-63b0-484b-aae4-239ebdc34f3b",
+                  "id": "187",
+                  "name": "youtube下载",
+                  "type": "url",
+                  "url": "https://loader.to/en115/"
+               }, {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "0",
+                  "guid": "5bb4a167-99bc-4204-b611-178cfa7c2df3",
+                  "id": "188",
+                  "name": "磁力链接",
+                  "type": "url",
+                  "url": "https://btcherries.xyz/"
+               }, {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "0",
+                  "guid": "8baf4bb5-2864-40e2-b4e2-fbdc7b97eacb",
+                  "id": "189",
+                  "name": "iLoveIMG | 图像文件在线编辑工具",
+                  "type": "url",
+                  "url": "https://www.iloveimg.com/zh-cn"
+               }, {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "0",
+                  "guid": "f7419595-6418-4422-9bf7-4ff6886ffa79",
+                  "id": "190",
+                  "name": "在线抠图软件_图片去除背景 | remove.bg – remove.bg",
+                  "type": "url",
+                  "url": "https://www.remove.bg/zh?from=thosefree.com"
+               }, {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "0",
+                  "guid": "31928ff3-29db-4ebd-8e3a-0aa8c0efc7d7",
+                  "id": "191",
+                  "name": "免费ppt模板,ppt模板下载,幻灯片模板 - 51PPT模板网",
+                  "type": "url",
+                  "url": "http://www.51pptmoban.com/ppt/"
+               }, {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "0",
+                  "guid": "29e23fc6-3827-4fa7-8121-bfb8eaa87883",
+                  "id": "192",
+                  "name": "100font.com - 免费字体下载 - 免费商用字体下载网站",
+                  "type": "url",
+                  "url": "https://www.100font.com/"
+               }, {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "0",
+                  "guid": "42041c8e-abad-4ebd-8ddb-b9f2de493d47",
+                  "id": "193",
+                  "name": "Office Tool Plus 官方网站 - 一键部署 Office",
+                  "type": "url",
+                  "url": "https://otp.landian.vip/zh-cn/"
+               }, {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "0",
+                  "guid": "a740dd16-df64-41e7-9a63-1a92fd4f515a",
+                  "id": "194",
+                  "name": "StartAllBack to fix all Windows 11 deal-breaking UI issues",
+                  "type": "url",
+                  "url": "https://www.startallback.com/"
+               }, {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "0",
+                  "guid": "ceab9f14-e30c-4a73-80ef-193152e318a3",
+                  "id": "195",
+                  "name": "公式编辑",
+                  "type": "url",
+                  "url": "https://www.simpletex.cn/"
+               } ],
+               "date_added": "13362909916608658",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "2fda39b9-549c-4b07-afe6-9c65442069b6",
+               "id": "182",
+               "name": "效率工具",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "0",
+                  "guid": "425be9e9-ce29-4ff4-98ff-bcf211d1b484",
+                  "id": "197",
+                  "name": "一元机场",
+                  "type": "url",
+                  "url": "https://xn--4gq62f52gdss.com/#/dashboard"
+               }, {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "0",
+                  "guid": "67ad7dc3-d2e2-4d65-a2fb-5d4d091753ad",
+                  "id": "198",
+                  "name": "泡泡Dog",
+                  "type": "url",
+                  "url": "https://www.paopao.dog/#/dashboard"
+               }, {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "0",
+                  "guid": "1ada6aaa-29ac-40ed-bd99-ad54505da41e",
+                  "id": "199",
+                  "name": "Get a virtual phone number. Temporary number. SMS service activation",
+                  "type": "url",
+                  "url": "https://sms-activate.org/getNumber"
+               }, {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "0",
+                  "guid": "9ecf2cfe-0165-437a-976e-a5710cb2910b",
+                  "id": "200",
+                  "name": "首页 — 桔子云",
+                  "type": "url",
+                  "url": "https://juzi80.net/user"
+               }, {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "0",
+                  "guid": "8840d302-3bb1-45e2-982f-a69ae660eba2",
+                  "id": "201",
+                  "name": "用户中心 — VC喵",
+                  "type": "url",
+                  "url": "https://xn--888-ok4b9e.xn--jh1al63br2c.com/user"
+               }, {
+                  "date_added": "13354787420000000",
+                  "date_last_used": "0",
+                  "guid": "6982473c-c879-4ca8-9a47-d39aa6c51d8e",
+                  "id": "202",
+                  "name": "ilolの小さな部屋",
+                  "type": "url",
+                  "url": "https://ilol.me/#/dashboard"
+               }, {
+                  "date_added": "13359607323000000",
+                  "date_last_used": "0",
+                  "guid": "4473b633-1535-4a22-a6f7-29d89920487f",
+                  "id": "203",
+                  "name": "一元机场",
+                  "type": "url",
+                  "url": "https://xn--4gq62f52gdss.ink/#/dashboard"
+               } ],
+               "date_added": "13362909916608807",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "7db4a921-ba1e-4be0-a8ba-6c10a5e3805a",
+               "id": "196",
+               "name": "vpn",
+               "type": "folder"
+            }, {
+               "date_added": "13354787420000000",
+               "date_last_used": "0",
+               "guid": "2b46c9bc-d331-4155-a8b9-1a521b533d91",
+               "id": "204",
+               "name": "java17API",
+               "type": "url",
+               "url": "file:///home/time/%E7%BC%96%E7%A8%8B%E5%AD%A6%E4%B9%A0/Java/06_%E8%BD%AF%E4%BB%B6%E4%B8%8E%E8%B5%84%E6%96%99/05-%E8%B5%84%E6%96%99/API%E6%96%87%E6%A1%A3/jdk-17.0.2_doc-all/docs/api/index.html"
+            }, {
+               "date_added": "13354787420000000",
+               "date_last_used": "0",
+               "guid": "c0ef5364-1ce7-4d4b-ad1d-af5fd58369b3",
+               "id": "205",
+               "name": "ChatGPT",
+               "type": "url",
+               "url": "https://chat.openai.com/"
+            } ],
+            "date_added": "13362909916608606",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "d1187c62-f49e-4413-b283-a751e14eb8a4",
+            "id": "178",
+            "name": "日常问题",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13354787420000000",
+               "date_last_used": "0",
+               "guid": "c9c5146f-3e86-4301-9ba9-a70d6ea3af5c",
+               "id": "207",
+               "name": "字节跳动校园招聘",
+               "type": "url",
+               "url": "https://jobs.bytedance.com/campus"
+            }, {
+               "date_added": "13354787420000000",
+               "date_last_used": "0",
+               "guid": "77026f0d-8b05-4f47-9115-79f9ee69d70a",
+               "id": "208",
+               "name": "米哈游-TECH OTAKUS SAVE THE WORLD",
+               "type": "url",
+               "url": "https://www.mihoyo.com/?page=about"
+            }, {
+               "date_added": "13354787420000000",
+               "date_last_used": "0",
+               "guid": "c0164e00-66b1-4112-bbfe-a20360d61ded",
+               "id": "209",
+               "name": "百度校园招聘",
+               "type": "url",
+               "url": "https://talent.baidu.com/jobs/list?projectType=2&recruitType=INTERN"
+            }, {
+               "date_added": "13354787420000000",
+               "date_last_used": "0",
+               "guid": "58a87242-ebd4-4565-bbb5-65a04cb29527",
+               "id": "210",
+               "name": "仕事探し | Indeed (インディード)",
+               "type": "url",
+               "url": "https://jp.indeed.com/"
+            }, {
+               "date_added": "13354787420000000",
+               "date_last_used": "0",
+               "guid": "82a8dd84-305e-449b-829e-731b625a586a",
+               "id": "211",
+               "name": "登录 | 领英职场",
+               "type": "url",
+               "url": "https://www.linkedin.cn/incareer/hp"
+            }, {
+               "date_added": "13354787420000000",
+               "date_last_used": "0",
+               "guid": "4018cec3-2478-4254-a909-660b8338605f",
+               "id": "212",
+               "name": "理想汽车 | 创造移动的家, 创造幸福的家 | 职位详情",
+               "type": "url",
+               "url": "https://www.lixiang.com/employ/detail/4475.html?fromJob=1"
+            }, {
+               "date_added": "13354787420000000",
+               "date_last_used": "0",
+               "guid": "e154cbb6-a8c6-4f26-9790-95aca5dfee97",
+               "id": "213",
+               "name": "43-流程控制-使用Scanner类从键盘获取数据_哔哩哔哩_bilibili",
+               "type": "url",
+               "url": "https://www.bilibili.com/video/BV1PY411e7J6?p=43&vd_source=a35275c11cdbd0b952cd93c13a06a8f9"
+            }, {
+               "date_added": "13354787420000000",
+               "date_last_used": "0",
+               "guid": "ecbdaf9e-ae02-4703-a556-ddf42616e98c",
+               "id": "214",
+               "name": "codetop",
+               "type": "url",
+               "url": "https://codetop.cc/home"
+            }, {
+               "date_added": "13354787420000000",
+               "date_last_used": "0",
+               "guid": "5f57f996-dd0b-4cbd-9092-e97a4125cfe4",
+               "id": "215",
+               "name": "Java_蔚来实习_牛客网",
+               "type": "url",
+               "url": "https://www.nowcoder.com/jobs/detail/228738?pageSource=5012&channel=npJobTab"
+            }, {
+               "date_added": "13354787420000000",
+               "date_last_used": "0",
+               "guid": "a80aa9da-c1d6-4286-8caf-866685031049",
+               "id": "216",
+               "name": "欢迎莅临台达官网",
+               "type": "url",
+               "url": "https://www.delta-china.com.cn/zh-CN/index"
+            }, {
+               "date_added": "13355563763000000",
+               "date_last_used": "0",
+               "guid": "6ac0f9ea-6f03-43b4-8be8-33efb104f4bf",
+               "id": "217",
+               "name": "八股文",
+               "type": "url",
+               "url": "https://blog.csdn.net/BASK2311/article/details/134794294?spm=1001.2101.3001.6650.2&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-2-134794294-blog-134309351.235%5Ev43%5Epc_blog_bottom_relevance_base2&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-2-134794294-blog-134309351.235%5Ev43%5Epc_blog_bottom_relevance_base2&utm_relevant_index=3"
+            }, {
+               "date_added": "13361877780000000",
+               "date_last_used": "0",
+               "guid": "9b7c5988-8c9d-4fdd-bed2-64d536ec5e36",
+               "id": "218",
+               "name": "interview-guide/八股文骚套路之Java基础.md at main · csguide-dabai/interview-guide",
+               "type": "url",
+               "url": "https://github.com/csguide-dabai/interview-guide/blob/main/%E5%85%AB%E8%82%A1%E6%96%87%E9%AA%9A%E5%A5%97%E8%B7%AF%E4%B9%8BJava%E5%9F%BA%E7%A1%80.md"
+            }, {
+               "date_added": "13362328432000000",
+               "date_last_used": "0",
+               "guid": "5364a99a-4737-43e0-8aae-12f56fb6516a",
+               "id": "219",
+               "name": "JVM垃圾回收详解（重点） | JavaGuide",
+               "type": "url",
+               "url": "https://javaguide.cn/java/jvm/jvm-garbage-collection.html#%E5%88%86%E4%BB%A3%E6%94%B6%E9%9B%86%E7%AE%97%E6%B3%95"
+            }, {
+               "date_added": "13362328942000000",
+               "date_last_used": "0",
+               "guid": "27b4cc27-d029-4ad2-be67-435f453a058f",
+               "id": "220",
+               "name": "interview-guide/八股文骚套路之JVM.md at main · csguide-dabai/interview-guide",
+               "type": "url",
+               "url": "https://github.com/csguide-dabai/interview-guide/blob/main/%E5%85%AB%E8%82%A1%E6%96%87%E9%AA%9A%E5%A5%97%E8%B7%AF%E4%B9%8BJVM.md"
+            } ],
+            "date_added": "13362909916610411",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "39e1e40e-842b-4db8-b450-014eff599f25",
+            "id": "206",
+            "name": "互联网大厂",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13354787420000000",
+               "date_last_used": "0",
+               "guid": "5efb5204-88c9-4436-8266-bf7758682cd9",
+               "id": "222",
+               "name": "百度",
+               "type": "url",
+               "url": "https://www.baidu.com/?tn=67074732_8_dg"
+            }, {
+               "date_added": "13354787420000000",
+               "date_last_used": "0",
+               "guid": "6319d651-bd03-4449-b3bb-c328262e5616",
+               "id": "223",
+               "name": "课程-研课教学系统",
+               "type": "url",
+               "url": "https://ke.neoscholar.com/#/course/index"
+            }, {
+               "date_added": "13354787420000000",
+               "date_last_used": "0",
+               "guid": "b64a732c-1593-4f2e-86cb-6fcae56fb551",
+               "id": "224",
+               "name": "百度翻译-200种语言互译、沟通全世界！",
+               "type": "url",
+               "url": "https://fanyi.baidu.com/"
+            }, {
+               "date_added": "13354787420000000",
+               "date_last_used": "0",
+               "guid": "aa7452a3-a4f4-4e99-bedf-399f7c681d84",
+               "id": "225",
+               "name": "燕山大学",
+               "type": "url",
+               "url": "http://ysu.edu.cn/"
+            } ],
+            "date_added": "13362909916610673",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "5297847e-c60a-41ce-aa9b-b1e9511b3973",
+            "id": "221",
+            "name": "常用",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13354787420000000",
+               "date_last_used": "0",
+               "guid": "5fc5b5ef-6f72-4e4a-9f60-af1cc5e23a9e",
+               "id": "227",
+               "name": "YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/"
+            }, {
+               "date_added": "13354787420000000",
+               "date_last_used": "0",
+               "guid": "7226f3bd-1363-4c4d-b57e-58b8aa28fe8f",
+               "id": "228",
+               "name": "(2) Reddit - Dive into anything",
+               "type": "url",
+               "url": "https://www.reddit.com/?rdt=60862"
+            }, {
+               "date_added": "13354787420000000",
+               "date_last_used": "0",
+               "guid": "244d7959-7455-4660-b8c1-e0374c0a2906",
+               "id": "229",
+               "name": "Google",
+               "type": "url",
+               "url": "https://www.google.com.hk/webhp?hl=zh-CN&sourceid=cnhp&gws_rd=ssl"
+            }, {
+               "date_added": "13354787420000000",
+               "date_last_used": "0",
+               "guid": "bff30d77-50db-47fb-9300-4cf00dddbe62",
+               "id": "230",
+               "name": "Gmail",
+               "type": "url",
+               "url": "https://accounts.google.com/b/0/AddMailService"
+            }, {
+               "date_added": "13354787420000000",
+               "date_last_used": "0",
+               "guid": "4b0b4291-09a0-48c6-b618-ee2f8701bc52",
+               "id": "231",
+               "name": "Overview - OpenAI API",
+               "type": "url",
+               "url": "https://platform.openai.com/overview"
+            }, {
+               "date_added": "13354787420000000",
+               "date_last_used": "0",
+               "guid": "1e18946b-083b-433e-89f1-a7a8a2880780",
+               "id": "232",
+               "name": "New chat",
+               "type": "url",
+               "url": "https://chat.openai.com/chat"
+            } ],
+            "date_added": "13362909916610724",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "25bd42c2-1b94-4c30-869b-5a2b1ad6c9b4",
+            "id": "226",
+            "name": "墙外",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13355889154000000",
+               "date_last_used": "0",
+               "guid": "977ef195-24e5-4ec4-bc6c-0789f26f53a5",
+               "id": "234",
+               "name": "Download PDF magazines and ebook free USA, UK, Australia and other",
+               "type": "url",
+               "url": "https://magazinelib.com/"
+            }, {
+               "date_added": "13355889157000000",
+               "date_last_used": "0",
+               "guid": "c748ec4d-4f5d-420b-a724-5af43b7ce847",
+               "id": "235",
+               "name": "Breaking News English Lessons: Easy English World News Materials - ESL",
+               "type": "url",
+               "url": "https://breakingnewsenglish.com/"
+            }, {
+               "date_added": "13355889159000000",
+               "date_last_used": "0",
+               "guid": "c9afbf6c-b076-46b7-8d6c-279ece3171f4",
+               "id": "236",
+               "name": "英美文化 合集 - 田间小站",
+               "type": "url",
+               "url": "https://www.tjxz.cc/category/culture"
+            }, {
+               "date_added": "13355889166000000",
+               "date_last_used": "0",
+               "guid": "5fcf1c57-9eb9-44cd-ba28-e379df42f5d1",
+               "id": "237",
+               "name": "Home Page - Rachel's English",
+               "type": "url",
+               "url": "https://rachelsenglish.com/"
+            }, {
+               "date_added": "13355889387000000",
+               "date_last_used": "0",
+               "guid": "37e83b9a-f11a-4a8a-9e20-074ca6be02f3",
+               "id": "238",
+               "name": "Urban Dictionary",
+               "type": "url",
+               "url": "https://www.urbandictionary.com/"
+            } ],
+            "date_added": "13362909916610778",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "5139c130-c1c5-4909-97c8-95344c84a810",
+            "id": "233",
+            "name": "英语学习",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13360554442000000",
+                  "date_last_used": "0",
+                  "guid": "9781768e-aef2-4c55-b23f-1b436a5f905b",
+                  "id": "241",
+                  "name": "较难-PROGRESS IN NEUROBIOLOGY",
+                  "type": "url",
+                  "url": "https://www.iikx.com/sci/medcine/16522.html"
+               }, {
+                  "date_added": "13360555179000000",
+                  "date_last_used": "0",
+                  "guid": "c4219926-4ec1-477c-9481-96e9b2f0a89a",
+                  "id": "242",
+                  "name": "核心基础文献-NEURAL NETWORKS",
+                  "type": "url",
+                  "url": "https://www.iikx.com/sci/technology/37754.html"
+               }, {
+                  "date_added": "13360555787000000",
+                  "date_last_used": "0",
+                  "guid": "5f313e80-3ddd-4b83-a47b-b2a2f0b0cb5b",
+                  "id": "243",
+                  "name": "EUROPEAN JOURNAL OF NEUROSCIENCE_影响因子(IF)_中科院分区_SCI期刊投稿经验_爱科学",
+                  "type": "url",
+                  "url": "https://www.iikx.com/sci/medcine/12319.html"
+               }, {
+                  "date_added": "13360556984000000",
+                  "date_last_used": "0",
+                  "guid": "2f24aa73-9d46-40b9-8870-3bf6c7e92648",
+                  "id": "244",
+                  "name": "IEEE SENSORS JOURNAL_影响因子(IF)_中科院分区_SCI期刊投稿经验_爱科学",
+                  "type": "url",
+                  "url": "https://www.iikx.com/sci/technology/12986.html"
+               }, {
+                  "date_added": "13360666421000000",
+                  "date_last_used": "0",
+                  "guid": "2e738cfb-da25-412b-a36d-37cb9a74f98e",
+                  "id": "245",
+                  "name": "IEEE Transactions on Cognitive and Developmental Systems_影响因子(IF)_中科院分区_SCI期刊投稿经验_爱科学",
+                  "type": "url",
+                  "url": "https://www.iikx.com/sci/technology/19519.html"
+               }, {
+                  "date_added": "13360667274000000",
+                  "date_last_used": "0",
+                  "guid": "7c027522-5386-412f-877d-6dfd2b84729c",
+                  "id": "246",
+                  "name": "这个好！IEEE TRANSACTIONS ON BIOMEDICAL ENGINEERING",
+                  "type": "url",
+                  "url": "https://www.iikx.com/sci/medcine/13001.html"
+               } ],
+               "date_added": "13362909916610844",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "c7aef60f-6400-4e64-8dc2-232a23967c66",
+               "id": "240",
+               "name": "二区",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13360553835000000",
+                  "date_last_used": "0",
+                  "guid": "f78de5b2-8f3f-4dd6-a00f-d1197a8d1b60",
+                  "id": "248",
+                  "name": "Cognitive Neurodynamics_影响因子(IF)_中科院分区_SCI期刊投稿经验_爱科学",
+                  "type": "url",
+                  "url": "https://www.iikx.com/sci/medcine/11527.html"
+               }, {
+                  "date_added": "13360554718000000",
+                  "date_last_used": "0",
+                  "guid": "779a949d-12f9-4d11-b060-91a005d6ac63",
+                  "id": "249",
+                  "name": "JOURNAL OF CLINICAL NEUROPHYSIOLOGY_影响因子(IF)_中科院分区_SCI期刊投稿经验_爱科学",
+                  "type": "url",
+                  "url": "https://www.iikx.com/sci/medcine/13945.html"
+               } ],
+               "date_added": "13362909916610983",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "da187fa2-cad8-4412-b0c5-cbf47be1d5dc",
+               "id": "247",
+               "name": "三区",
+               "type": "folder"
+            }, {
+               "date_added": "13360906532000000",
+               "date_last_used": "0",
+               "guid": "f5afebb4-c8e8-4124-9e37-497998bd120f",
+               "id": "250",
+               "name": "biomedical engineering ",
+               "type": "url",
+               "url": "https://mc.manuscriptcentral.com/tbme-embs"
+            }, {
+               "date_added": "13361869935000000",
+               "date_last_used": "0",
+               "guid": "d7bf74fb-4c7f-4d9d-b7ce-a782cf2dc9d4",
+               "id": "251",
+               "name": " Cognitive Computation ",
+               "type": "url",
+               "url": "https://www.editorialmanager.com/cogn/default2.aspx"
+            }, {
+               "date_added": "13362853709000000",
+               "date_last_used": "0",
+               "guid": "5ad388a5-5cba-4616-bc79-ac99c5c4e28b",
+               "id": "252",
+               "name": "二区：About TIM | IEEE Instrumentation & Measurement Society",
+               "type": "url",
+               "url": "https://ieee-ims.org/publication/ieee-tim"
+            }, {
+               "date_added": "13362856171000000",
+               "date_last_used": "0",
+               "guid": "024c8317-f34e-4b56-98a2-cd4d261c5d09",
+               "id": "253",
+               "name": "三区：Welcome to ScholarOne Manuscripts (TM)",
+               "type": "url",
+               "url": "https://mc.manuscriptcentral.com/tcds-ieee"
+            } ],
+            "date_added": "13362909916610836",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "557c050d-b4d6-47c7-af2a-64e0e8a65ccd",
+            "id": "239",
+            "name": "期刊投稿",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13360408835000000",
+               "date_last_used": "0",
+               "guid": "dd3664e0-f62c-4702-b6c3-55320bd3456b",
+               "id": "255",
+               "name": "联想实习申请",
+               "type": "url",
+               "url": "https://talent.lenovo.com.cn/account/apply"
+            }, {
+               "date_added": "13360409667000000",
+               "date_last_used": "0",
+               "guid": "1c41b745-d79c-4ef2-a0cc-4cbc858377f5",
+               "id": "256",
+               "name": "字节跳动实习申请",
+               "type": "url",
+               "url": "https://jobs.bytedance.com/campus/position/application"
+            }, {
+               "date_added": "13360411981000000",
+               "date_last_used": "0",
+               "guid": "427db4c6-fe86-4fa6-974d-eadda7d4499e",
+               "id": "257",
+               "name": "快手招聘",
+               "type": "url",
+               "url": "https://zhaopin.kuaishou.cn/#/official/my-apply/"
+            }, {
+               "date_added": "13360413694000000",
+               "date_last_used": "0",
+               "guid": "c8987ae7-b221-4ccd-a8e3-f1eeed642cf4",
+               "id": "258",
+               "name": "滴滴 -实习生招聘",
+               "type": "url",
+               "url": "https://app.mokahr.com/apply/didiglobal/6222#/"
+            }, {
+               "date_added": "13360416630000000",
+               "date_last_used": "0",
+               "guid": "6574f4bd-99e6-4c5a-a9a4-b0f368c38ac2",
+               "id": "259",
+               "name": "小米实习生招聘",
+               "type": "url",
+               "url": "https://xiaomi.jobs.f.mioffice.cn/internship/position/application?spread=6AA3R7B"
+            }, {
+               "date_added": "13360417360000000",
+               "date_last_used": "0",
+               "guid": "eda62095-3e71-43ff-987c-622f1e2d92a5",
+               "id": "260",
+               "name": "网易游戏",
+               "type": "url",
+               "url": "https://game.campus.163.com/personal"
+            }, {
+               "date_added": "13360419185000000",
+               "date_last_used": "0",
+               "guid": "a44829dc-ad56-49c7-b622-3dd79ff2fa24",
+               "id": "261",
+               "name": "携程集团 - 校园招聘",
+               "type": "url",
+               "url": "https://campus.ctrip.com/campus-recruitment/trip/37757/#/candidateHome/applications"
+            }, {
+               "date_added": "13360421050000000",
+               "date_last_used": "0",
+               "guid": "4c6b783e-a35d-48eb-bc0f-0211c4b56e64",
+               "id": "262",
+               "name": "Ubisoft China Careers",
+               "type": "url",
+               "url": "https://shaubisoft1.zhiye.com/form?fromPage=job&jobAdId=86cb304e-ed54-4cec-b6d3-84a8d47b67e8"
+            }, {
+               "date_added": "13360521949000000",
+               "date_last_used": "0",
+               "guid": "504df6fd-7cfe-4ba8-acd1-c4816ba0bc57",
+               "id": "263",
+               "name": "菜鸟集团招聘官网",
+               "type": "url",
+               "url": "https://cn-jobs.cainiao.com/personal/campus-application?lang=zh"
+            }, {
+               "date_added": "13360560713000000",
+               "date_last_used": "0",
+               "guid": "1ee59dbd-ef80-41bd-a9e3-6a87755ba5b9",
+               "id": "264",
+               "name": "我的申请 - DJI 大疆招聘",
+               "type": "url",
+               "url": "https://we.dji.com/zh-CN/position/process"
+            }, {
+               "date_added": "13360689202000000",
+               "date_last_used": "0",
+               "guid": "1c47a431-d0c9-4b3c-afca-9194314e14d5",
+               "id": "265",
+               "name": "Ubisoft China Careers",
+               "type": "url",
+               "url": "https://shaubisoft1.zhiye.com/personal/deliveryRecord"
+            } ],
+            "date_added": "13362909916611063",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "60df1e7a-66c0-49f8-9934-42587828e814",
+            "id": "254",
+            "name": "校招以及实习岗位",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13360168446000000",
+               "date_last_used": "0",
+               "guid": "ec28c20c-84a3-45fc-9815-7a3160c4c16c",
+               "id": "267",
+               "name": "Weixin Official Accounts Platform",
+               "type": "url",
+               "url": "https://mp.weixin.qq.com/s/ZALPGbsvYpKv66POZ4V6dw"
+            }, {
+               "children": [ {
+                  "date_added": "13360170543000000",
+                  "date_last_used": "0",
+                  "guid": "8e2eafba-00f1-42ba-8e56-b1e7d03d63d9",
+                  "id": "269",
+                  "name": "Java项目Hub: 淘淘品优购宜立方乐优畅购青橙BOS品达物流冰眼冷链万信金融闪聚支付充吧红包雨智牛股学成在线智慧学成十次方探花交友好客租房智维找房立可得亿可控黑马头条传智健康餐掌柜黑马秒杀SaaS-IHRM集信达SaaSExport尚品汇谷粒商城尚课吧谷粒学院尚医通尚融宝尚筹网车服管家元蜂WMS品达仓储WMS九点钟美年旅游瑞吉外卖",
+                  "type": "url",
+                  "url": "https://gitee.com/itxinfei/hub#%E4%B8%80%E9%BB%91%E9%A9%AC%E7%A8%8B%E5%BA%8F%E5%91%98"
+               }, {
+                  "date_added": "13360171110000000",
+                  "date_last_used": "0",
+                  "guid": "1b03c3f9-1d2f-4771-9083-2f26cbf99728",
+                  "id": "270",
+                  "name": "Java 优质开源实战项目 | JavaGuide",
+                  "type": "url",
+                  "url": "https://javaguide.cn/open-source-project/practical-project.html"
+               }, {
+                  "date_added": "13360171269000000",
+                  "date_last_used": "0",
+                  "guid": "0002c630-f8ba-4fbc-a584-28a787fc219b",
+                  "id": "271",
+                  "name": "mini-spring是简化版的spring框架",
+                  "type": "url",
+                  "url": "https://github.com/DerekYRC/mini-spring"
+               } ],
+               "date_added": "13362909916611229",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "e2d522e3-b6f6-493c-be72-0f815bee3a67",
+               "id": "268",
+               "name": "项目",
+               "type": "folder"
+            }, {
+               "date_added": "13360404973000000",
+               "date_last_used": "0",
+               "guid": "e6948c0f-458b-4c9a-8218-e62a2138acd7",
+               "id": "272",
+               "name": "黑马点评项目学习笔记（15w字详解，堪称史上最详细，欢迎收藏）-CSDN博客",
+               "type": "url",
+               "url": "https://blog.csdn.net/qq_66345100/article/details/131986713"
+            }, {
+               "date_added": "13360673775000000",
+               "date_last_used": "0",
+               "guid": "07048c2c-f847-4bfd-b280-7207bdc2d380",
+               "id": "273",
+               "name": "牛客模板刷题你到底可以多快？_牛客网",
+               "type": "url",
+               "url": "https://www.nowcoder.com/discuss/353159448875180032"
+            } ],
+            "date_added": "13362909916611209",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "9e8d45ca-838c-4c71-87d2-4831a8553450",
+            "id": "266",
+            "name": "面试技术",
+            "type": "folder"
+         }, {
+            "date_added": "13354905728000000",
+            "date_last_used": "0",
+            "guid": "51d25fc0-bf05-437f-8fe8-8331d961881c",
+            "id": "274",
+            "name": "MEProtoss",
+            "type": "url",
+            "url": "https://github.com/MEProtoss"
+         }, {
+            "date_added": "13354787420000000",
+            "date_last_used": "0",
+            "guid": "8d947d8d-c8f3-4b00-98d8-d59bc775ca07",
+            "id": "275",
+            "name": "v2rayA",
+            "type": "url",
+            "url": "http://localhost:2017/"
+         }, {
+            "date_added": "13354787420000000",
+            "date_last_used": "0",
+            "guid": "df3e6858-65b1-425e-b45b-cadf422b9b86",
+            "id": "276",
+            "name": "LeetCode",
+            "type": "url",
+            "url": "https://leetcode.cn/"
+         }, {
+            "date_added": "13357476447000000",
+            "date_last_used": "0",
+            "guid": "1f669245-d8aa-4275-9080-acbd8663ae5b",
+            "id": "277",
+            "name": "代码随想录",
+            "type": "url",
+            "url": "https://programmercarl.com/"
+         }, {
+            "date_added": "13357327038000000",
+            "date_last_used": "0",
+            "guid": "0582e5c5-b803-4871-9296-a8b248f86ec4",
+            "id": "278",
+            "name": "管理 GitHub Copilot 个人版订阅 - GitHub 文档",
+            "type": "url",
+            "url": "https://docs.github.com/zh/billing/managing-billing-for-github-copilot/managing-your-github-copilot-individual-subscription"
+         }, {
+            "date_added": "13354787420000000",
+            "date_last_used": "0",
+            "guid": "3445b2d3-d4b9-4ae8-9b47-6c4f84d62f56",
+            "id": "279",
+            "name": "校园网",
+            "type": "url",
+            "url": "http://auth.ysu.edu.cn/eportal/success.jsp?userIndex=62353166663233636666333034663466383737613562353932356337343764345f31302e32302e382e3130365f323032323232303330313134"
+         }, {
+            "date_added": "13362804821000000",
+            "date_last_used": "0",
+            "guid": "37e091fd-8193-4e71-ba2c-54490dc1901d",
+            "id": "280",
+            "name": "文心一言",
+            "type": "url",
+            "url": "https://yiyan.baidu.com/"
+         }, {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13326786236000000",
+                  "date_last_used": "0",
+                  "guid": "85e37958-508a-4c95-be4c-389a2cd236d9",
+                  "id": "283",
+                  "name": "Get Help",
+                  "type": "url",
+                  "url": "https://support.mozilla.org/products/firefox"
+               }, {
+                  "date_added": "13326786236000000",
+                  "date_last_used": "0",
+                  "guid": "82b5c4bd-10d4-4afd-b12f-6fff1ab01bd1",
+                  "id": "284",
+                  "name": "Customize Firefox",
+                  "type": "url",
+                  "url": "https://support.mozilla.org/kb/customize-firefox-controls-buttons-and-toolbars?utm_source=firefox-browser&utm_medium=default-bookmarks&utm_campaign=customize"
+               }, {
+                  "date_added": "13326786236000000",
+                  "date_last_used": "0",
+                  "guid": "f0bc3983-bb45-4e1d-b75f-945f9b4a4b04",
+                  "id": "285",
+                  "name": "Get Involved",
+                  "type": "url",
+                  "url": "https://www.mozilla.org/contribute/"
+               }, {
+                  "date_added": "13326786236000000",
+                  "date_last_used": "0",
+                  "guid": "e72d2e6e-ae80-4c03-8509-e134f230fce5",
+                  "id": "286",
+                  "name": "About Us",
+                  "type": "url",
+                  "url": "https://www.mozilla.org/about/"
+               }, {
+                  "date_added": "13326793962000000",
+                  "date_last_used": "0",
+                  "guid": "75e40830-720d-4799-bb1a-1a709d126374",
+                  "id": "287",
+                  "name": "取得幫助",
+                  "type": "url",
+                  "url": "https://support.mozilla.org/products/firefox"
+               }, {
+                  "date_added": "13326793962000000",
+                  "date_last_used": "0",
+                  "guid": "7c8549b6-ab47-4798-a87d-ba9919de6e87",
+                  "id": "288",
+                  "name": "自訂 Firefox",
+                  "type": "url",
+                  "url": "https://support.mozilla.org/kb/customize-firefox-controls-buttons-and-toolbars?utm_source=firefox-browser&utm_medium=default-bookmarks&utm_campaign=customize"
+               }, {
+                  "date_added": "13326793962000000",
+                  "date_last_used": "0",
+                  "guid": "d05a3fe9-e3aa-4c37-9e7d-677a0cc8426f",
+                  "id": "289",
+                  "name": "參與我們",
+                  "type": "url",
+                  "url": "https://www.mozilla.org/contribute/"
+               }, {
+                  "date_added": "13326793962000000",
+                  "date_last_used": "0",
+                  "guid": "e050a58a-9303-4568-8ea4-461d45129418",
+                  "id": "290",
+                  "name": "關於我們",
+                  "type": "url",
+                  "url": "https://www.mozilla.org/about/"
+               } ],
+               "date_added": "13362909916611488",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "5d86d75a-2cec-4d5e-98fa-9316383bf475",
+               "id": "282",
+               "name": "Mozilla Firefox",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13334087600000000",
+                  "date_last_used": "0",
+                  "guid": "c3c67063-866d-4124-82c7-ddaee31a7be2",
+                  "id": "292",
+                  "name": "Manjaro Downloads",
+                  "type": "url",
+                  "url": "https://manjaro.org/get-manjaro/"
+               } ],
+               "date_added": "13362909916611573",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "a8585b0d-00e2-4b9a-b264-e2981ae23780",
+               "id": "291",
+               "name": "Manjaro Linux",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13330870525000000",
+                  "date_last_used": "0",
+                  "guid": "8d42e3bc-3104-4c12-963e-42d08d56f347",
+                  "id": "294",
+                  "name": "Garuda Homepage",
+                  "type": "url",
+                  "url": "https://garudalinux.org/"
+               }, {
+                  "date_added": "13330870526000000",
+                  "date_last_used": "0",
+                  "guid": "1c658af9-a339-4ac0-a8a4-4934379565be",
+                  "id": "295",
+                  "name": "Garuda Forum",
+                  "type": "url",
+                  "url": "https://forum.garudalinux.org/"
+               }, {
+                  "date_added": "13330870526000000",
+                  "date_last_used": "0",
+                  "guid": "195d1de6-d22d-4ae8-8d77-354627ce1f3f",
+                  "id": "296",
+                  "name": "Garuda Wiki",
+                  "type": "url",
+                  "url": "https://wiki.garudalinux.org/"
+               }, {
+                  "date_added": "13330870526000000",
+                  "date_last_used": "0",
+                  "guid": "c1f75323-e913-4d2e-871a-d814ce7d2731",
+                  "id": "297",
+                  "name": "Garuda Downloads",
+                  "type": "url",
+                  "url": "https://garudalinux.org/downloads.html"
+               }, {
+                  "date_added": "13330870526000000",
+                  "date_last_used": "0",
+                  "guid": "93e10a4b-400e-4a86-a2f3-69671063dc00",
+                  "id": "298",
+                  "name": "Distrowatch",
+                  "type": "url",
+                  "url": "https://distrowatch.com/table.php?distribution=garuda"
+               } ],
+               "date_added": "13362909916611584",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "3805f00c-3b81-4be3-937b-d3074f62ca74",
+               "id": "293",
+               "name": "Garuda Linux",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13354905728000000",
+                  "date_last_used": "0",
+                  "guid": "be1d04a6-dfc4-4d1a-ad53-43f6e857f101",
+                  "id": "300",
+                  "name": "魔都精兵的奴隶【1-125话 全是中文】【魔都精兵のスレイブ／魔都精兵的奴隸】-7 _ zero搬运网 -zerobyw",
+                  "type": "url",
+                  "url": "http://www.zerobywns.com/plugin.php?id=jameson_manhua&c=index&a=read&zjid=480240"
+               }, {
+                  "date_added": "13357312393000000",
+                  "date_last_used": "0",
+                  "guid": "0977dd6e-67f1-4dfb-9202-1f8f97aadcb0",
+                  "id": "301",
+                  "name": "魔都精兵的奴隶【1-125话 全是中文】【魔都精兵のスレイブ／魔都精兵的奴隸】-7 _ zero搬运网 -zerobyw",
+                  "type": "url",
+                  "url": "http://www.zerobywns.com/plugin.php?id=jameson_manhua&c=index&a=read&zjid=480240"
+               } ],
+               "date_added": "13362909916611629",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "ba0516b7-5d75-419c-9c97-0348941fa43c",
+               "id": "299",
+               "name": "unfiled",
+               "type": "folder"
+            } ],
+            "date_added": "13362909916611482",
+            "date_last_used": "0",
+            "date_modified": "13362909916611482",
+            "guid": "ba34ad6a-de6c-4cce-98fb-50c463c0409c",
+            "id": "281",
+            "name": "从 Firefox 导入",
+            "type": "folder"
+         } ],
+         "date_added": "13362909895997932",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "书签栏",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13362911298120305",
+            "date_last_used": "0",
+            "guid": "053e8539-7222-4894-9f71-83042a339692",
+            "id": "303",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "历史记录",
+            "type": "url",
+            "url": "chrome://history/"
+         } ],
+         "date_added": "13362909895997934",
+         "date_last_used": "0",
+         "date_modified": "13362911298120305",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "其他书签",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13362909895997934",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "移动设备书签",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

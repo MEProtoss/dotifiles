@@ -11,9 +11,12 @@ require("lazy").setup({
 		-- 添加 LazyVim 并且导入它的其他插件
 		{ "LazyVim/LazyVim", import = "lazyvim.plugins" },
 		-- 在此处导入任何 extra 模块
-		-- { import = "lazyvim.plugins.extras.lang.typescript" },
-		-- { import = "lazyvim.plugins.extras.lang.json" },
-		-- { import = "lazyvim.plugins.extras.ui.mini-animate" },
+		{ import = "lazyvim.plugins.extras.ui.mini-animate" }, -- add LazyVim and import its plugins
+		{ import = "lazyvim.plugins.extras.lang.typescript" },
+		{ import = "lazyvim.plugins.extras.lang.json" },
+		{ import = "lazyvim.plugins.extras.dap.core" },
+		-- import/override with your plugins
+		{ import = "plugins" },
 		-- 导入/覆盖你的插件
 		{ import = "plugins" },
 	},

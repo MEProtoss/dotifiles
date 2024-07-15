@@ -17,13 +17,17 @@ return {
 			"nvim-telescope/telescope.nvim",
 		},
 	},
-	{
-		"zbirenbaum/copilot.lua",
-		cmd = "Copilot",
-		build = ":Copilot auth",
-		opts = {
-			suggestion = { enabled = false },
-			panel = { enabled = false },
-		},
-	},
+	-- {
+	-- 	"zbirenbaum/copilot.lua",
+	-- 	cmd = "Copilot",
+	-- 	build = ":Copilot auth",
+	-- 	opts = {
+	-- 		suggestion = { enabled = true },
+	-- 		panel = { enabled = true },
+	-- 		filetypes = {
+	-- 			markdown = true,
+	-- 			help = true,
+	-- 		},
+	-- 	},
+	-- },
 }

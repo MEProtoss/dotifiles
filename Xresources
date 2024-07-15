@@ -6,4 +6,6 @@ Xft.hintstyle:  hintfull
 Xft.hinting: 1
 Xft.antialias: 1
 Xft.rgba: rgb
+/* 光标尺寸 */
+Xcursor.size: 32
 

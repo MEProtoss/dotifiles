@@ -26,18 +26,18 @@ return {
 		"sainnhe/vim-color-forest-night",
 	},
 	-- a theme
-	{
-		"malbernaz/monokai.nvim",
-		-- config = function()
-		-- 	require("monokai").setup({
-		-- 		custom_hlgroups = {
-		-- 			FlashCurrent = { fg = "#FF0000", bg = "#FF0000" },
-		-- 			FlashLabel = { fg = "#FBF3CB", bg = "#FF007C" },
-		-- 			FlashMatch = { fg = "#000000", bg = "#000000" },
-		-- 		},
-		-- 	})
-		-- end,
-	},
+	-- {
+	-- 	"malbernaz/monokai.nvim",
+	-- 	config = function()
+	-- 		require("monokai").setup({
+	-- 			custom_hlgroups = {
+	-- 				FlashCurrent = { fg = "#FF0000", bg = "#FF0000" },
+	-- 				FlashLabel = { fg = "#FBF3CB", bg = "#FF007C" },
+	-- 				FlashMatch = { fg = "#000000", bg = "#000000" },
+	-- 			},
+	-- 		})
+	-- 	end,
+	-- },
 	-- 设置nvim默认主题
 	{
 		"LazyVim/LazyVim",
@@ -46,17 +46,32 @@ return {
 		},
 	},
 
+	-- nightfoxtheme
+	{
+		"EdenEast/nightfox.nvim",
+		config = function()
+			require("nightfox").setup({
+				options = {
+					styles = {
+						comments = "italic",
+						keywords = "bold",
+						types = "italic,bold",
+					},
+				},
+			})
+		end,
+	},
 	-- a theme
 	{
 		"folke/tokyonight.nvim",
 		lazy = true,
 		opts = {
-			style = "moon",
+			style = "night",
 			transparent = true,
-			-- styles = {
-			-- 	sidebars = "transparent",
-			-- 	floats = "transparent",
-			-- },
+			styles = {
+				sidebars = "transparent",
+				floats = "transparent",
+			},
 		},
 	},
 }

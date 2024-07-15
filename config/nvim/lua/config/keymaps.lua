@@ -7,10 +7,15 @@ local map = vim.keymap.set
 map("i", "<A-a>", "<right>", { desc = "向右移动一格光标", noremap = true })
 -- 复制当前行
 map("i", "<C-d>", "<esc>yyp$a", { desc = "复制当前行", noremap = true })
+map("n", "<C-d>", "<esc>yyp$a", { desc = "复制当前行", noremap = true })
 -- 退格键快速删除
 map("n", "<bs>", '"_ciw', { desc = "快速删除", noremap = true })
 -- 全选
 map("n", "<A-a>", "ggVG", { desc = "全选", noremap = true })
+
+-- 插入行
+map("i", "<A-o>", "<esc>o", { desc = "向下插入行", noremap = true })
+map("i", "<A-S-o>", "<esc>O", { desc = "向下插入行", noremap = true })
 
 -- VISUAL SELECT模式 s-tab tab左右缩进
 map("v", "<S-Tab>", "<gv", { desc = "左缩进", noremap = true })

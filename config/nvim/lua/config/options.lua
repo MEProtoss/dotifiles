@@ -8,6 +8,7 @@ vim.g.maplocalleader = " "
 
 local opt = vim.opt
 
+vim.g.python3_host_prog = os.getenv("PYTHON") -- export PYTHON=$(which python3)
 opt.swapfile = false
 opt.guifont = "Maple Mono:h16" -- text below applies for VimScript
 opt.autowrite = true -- 开启 auto write
@@ -18,7 +19,9 @@ opt.completeopt = "menu,menuone,noselect"
 opt.conceallevel = 0 -- Hide * markup for bold and italic
 opt.confirm = true -- 在退出修改过的缓冲区之前要确认保存更改
 opt.cursorline = true -- 开启当前行高亮
-opt.expandtab = true -- 使用空格(spaces)代替跳格(tabs)
+opt.tabstop = 4
+opt.shiftwidth = 4
+-- opt.expandtab = true -- 使用空格(spaces)代替跳格(tabs)
 opt.formatoptions = "jcroqlnt" -- tcqj
 opt.grepformat = "%f:%l:%c:%m"
 opt.grepprg = "rg --vimgrep"
@@ -34,17 +37,15 @@ opt.relativenumber = true -- 相对行号
 opt.scrolloff = 4 -- 保持在上方和下方的最少行数。
 opt.sessionoptions = { "buffers", "curdir", "tabpages", "winsize" }
 opt.shiftround = true -- Round indent
-opt.shiftwidth = 2 -- 缩进大小
 opt.shortmess:append({ W = true, I = true, c = true })
 opt.showmode = false -- 不显示模式因为我们有了状态栏
 opt.sidescrolloff = 8 -- 保持在左侧和右侧的最少列数
 opt.signcolumn = "yes" -- Always show the signcolumn, otherwise it would shift the text each time
 opt.smartcase = true -- Don't ignore case with capitals
 opt.smartindent = true -- 自动插入缩进
-opt.spelllang = { "en" }
+opt.spelllang = { "en", "cjk" }
 opt.splitbelow = true -- 将新窗口放在当前窗口下面
 opt.splitright = true -- 将新窗口放在当前窗口右面
-opt.tabstop = 2 -- Number of spaces tabs count for
 opt.termguicolors = true -- 真色支持
 opt.timeoutlen = 300
 opt.undofile = true

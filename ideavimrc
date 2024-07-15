@@ -5,17 +5,14 @@
 Plug 'tpope/vim-surround'
 Plug 'preservim/nerdtree'
 Plug 'terryma/vim-multiple-cursors'
-map <D-b> <A-n>
-map mx <A-x>
-map mv <A-p>
+Plug 'easymotion/vim-easymotion'
+
 
 " ================================================================================================
 " = Basic settings =====================================
 " ================================================================================================
 set clipboard+=unnamed
 set ignorecase
-set scrolloff=30
-set history=200
 
 set number
 set relativenumber
@@ -23,10 +20,30 @@ set relativenumber
 set incsearch
 set hlsearch
 
+" 适配中英文输入法切换
+set keep-english-in-normal
 set keep-english-in-normal-and-restore-in-insert
+
 " ================================================================================================
-" = No Leader Keymaps =====================================
+" 🌍🌍🌍 No Leader Keymaps 🌍🌍🌍
 " ================================================================================================
+" ==================================================
+" 查询所有的action命令，可以使用命令： `:actionlist`
+" ==================================================
+"--普通模式下使用回车键，向下/向上 增加一行
+nmap <CR> o<Esc>
+nmap <S-Enter> O<Esc>
+
+
+"--在普通和插入模式下，向下交换行/向上交换行
+nnoremap <M-j> :m +1<CR>
+nnoremap <M-k> :m -2<CR>
+inoremap <M-j> <Esc> :m +1<CR>gi
+inoremap <M-k> <Esc> :m -2<CR>gi
+xnoremap <M-j> :m '>+1<cr>gv=gv
+xnoremap <M-k> :m '<-2<cr>gv=gv
+
+
 nmap ge <action>(GotoNextError)
 nmap gt <action>(GotoTest)
 nmap gm <action>(MethodUp)
@@ -76,6 +93,9 @@ nmap <leader>fp <action>(OpenProjectWindows)
 
 let g:WhichKeyDesc_FindOrFormat_Format = "<leader>fm Format"
 nmap <leader>fm <action>(ReformatCode) \| <action>(OptimizeImports)
+
+let g:WhichKeyDesc_FindOrFormat_Format = "<leader>fr RecentFiles"
+nmap <leader>fr <action>(RecentFiles)
 
 " g: Git ⭐️
 let g:WhichKeyDesc_Git = "<leader>g Git"
@@ -136,8 +156,13 @@ let g:WhichKeyDesc_Zip_ZipAll = "<leader>zc ZipAll"
 nmap <leader>zc <action>(CollapseAllRegions)
 
 " c: Close ⭐️;
-let g:WhichKeyDesc_CloseBuffer = "<leader>c CloseBuffer"
-nmap <leader>c :q!<CR>
+let g:WhichKeyDesc_CloseBuffer = "<leader>bd CloseBuffer"
+nmap <leader>bd :q!<CR>
+let g:WhichKeyDesc_Windows_closeActiveWindow = "<leader>bl CloseAllToTheLeft"
+nmap <leader>bl <action>(CloseAllToTheLeft)
+let g:WhichKeyDesc_Windows_closeActiveWindow = "<leader>bo CloseAllToTheRight"
+nmap <leader>br <action>(CloseAllToTheRight)
+
 
 " e: Toggle Explorer ⭐️
 let g:WhichKeyDesc_ToggleExplorerOrExtract = "<leader>e ToggleExplorer"
@@ -154,19 +179,12 @@ vmap <leader>ev <action>(IntroduceVariable)
 
 
 " 选择主题
-nmap <leader>ct <Action>(ChangeLaf)
+nmap <leader>uc <Action>(ChangeLaf)
 " vim模式开关
 nmap <leader>vim <Action>(VimPluginToggle)
-vnoremap ; :
-nnoremap ; :
 
 " 快捷方式
 nmap Q :q<CR>
-
-"行首尾跳转
-nnoremap <C-E> <End>
-inoremap <C-E> <Esc>A
-vnoremap <C-E> <Esc>$a
 
 nnoremap <C-A> <Home>
 inoremap <C-A> <Esc>I
@@ -178,7 +196,6 @@ inoremap <S-right> <Esc>ea
 
 "快速删除
 nmap <BS> \"_ciw
-imap <C-h> col(".") == col("$") ? \'<esc>"_db"_xa\' : \'<esc>"_db"_xi\'
 
 "only change text
 xmap <BS> \"_d
