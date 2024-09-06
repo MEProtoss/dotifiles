@@ -1,10 +1,10 @@
 lastupdatecheck: 0
 recentrepos:
     - /home/time/workspace/dotifiles
-    - /home/time/文档/Notes
+    - /home/time/workspace/dotifiles/config/nvim
+    - /home/time/workspace/dwm
     - /home/time/workspace/blog
     - /home/time/workspace/st
-    - /home/time/workspace/dwm
     - /home/time/.local/share/nvim/lazy/LuaSnip
     - /home/time/workspace/wudao-dict
     - /home/time/scripts
