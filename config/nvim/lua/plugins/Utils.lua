@@ -80,7 +80,7 @@ return {
 		opts = {
 			-- 配置放在这里
 			---@type lc.lang
-			lang = "java",
+			lang = "python3",
 			injector = { ---@type table<lc.lang, lc.inject>
 				["cpp"] = {
 					before = { "#include <bits/stdc++.h>", "using namespace std;" },
@@ -90,8 +90,10 @@ return {
 					before = "import java.util.*;",
 				},
 			},
-			cn = {
-				enabled = true,
+			cn = { -- leetcode.cn
+				enabled = true, ---@type boolean
+				translator = true, ---@type boolean
+				translate_problems = true, ---@type boolean
 			},
 		},
 	},
