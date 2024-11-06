@@ -1,7 +1,7 @@
 [Default Applications]
 text/html=userapp-Firefox-YCHXS2.desktop
-x-scheme-handler/http=userapp-Firefox-YCHXS2.desktop
-x-scheme-handler/https=userapp-Firefox-YCHXS2.desktop
+x-scheme-handler/http=google-chrome.desktop
+x-scheme-handler/https=google-chrome.desktop
 x-scheme-handler/about=brave-browser.desktop
 x-scheme-handler/unknown=brave-browser.desktop
 x-scheme-handler/baiduyunguanjia=baidunetdisk.desktop
@@ -45,6 +45,9 @@ application/wps-office.wps=wps-office-wps.desktop
 application/wps-office.wpss=wps-office-wps.desktop
 application/wps-office.wpso=wps-office-wps.desktop
 application/wps-office.wpt=wps-office-wps.desktop
+x-scheme-handler/mailto=userapp-Thunderbird-0OXNW2.desktop
+message/rfc822=userapp-Thunderbird-0OXNW2.desktop
+x-scheme-handler/mid=userapp-Thunderbird-0OXNW2.desktop
 
 [Added Associations]
 text/plain=nvim.desktop;wps-office-prometheus.desktop;
@@ -52,8 +55,8 @@ text/markdown=typora.desktop;appimagekit_9e0d0fa9854c83d1d3faca5f422e1f83-MarkTe
 text/x-log=nvim.desktop;
 application/wps-office.docx=wps-office-prometheus.desktop;libreoffice-startcenter.desktop;code.desktop;nvim.desktop;wps-office-wps.desktop;
 image/png=org.xfce.ristretto.desktop;org.kde.okular.desktop;org.gnome.gThumb.desktop;xnviewmp.desktop;org.wezfurlong.wezterm.desktop;
-x-scheme-handler/http=firefox.desktop;userapp-Firefox-YCHXS2.desktop;
-x-scheme-handler/https=firefox.desktop;userapp-Firefox-YCHXS2.desktop;
+x-scheme-handler/http=firefox.desktop;userapp-Firefox-YCHXS2.desktop;google-chrome.desktop;
+x-scheme-handler/https=firefox.desktop;userapp-Firefox-YCHXS2.desktop;google-chrome.desktop;
 text/html=firefox.desktop;userapp-Firefox-YCHXS2.desktop;
 application/pdf=org.kde.okular.desktop;wps-office-pdf.desktop;wyeb.desktop;
 application/x-shellscript=nvim.desktop;
@@ -76,6 +79,8 @@ application/x-extension-shtml=userapp-Firefox-YCHXS2.desktop;
 application/xhtml+xml=userapp-Firefox-YCHXS2.desktop;
 application/x-extension-xhtml=userapp-Firefox-YCHXS2.desktop;
 application/x-extension-xht=userapp-Firefox-YCHXS2.desktop;
+x-scheme-handler/mailto=userapp-Thunderbird-0OXNW2.desktop;
+x-scheme-handler/mid=userapp-Thunderbird-0OXNW2.desktop;
 
 [Removed Associations]
 application/vnd.rar=userapp-extract-023CN2.desktop;

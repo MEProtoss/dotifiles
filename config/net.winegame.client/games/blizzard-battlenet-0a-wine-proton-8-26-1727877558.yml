@@ -1,0 +1,196 @@
+game:
+  arch: win64
+  exe: drive_c/Program Files (x86)/Battle.net/Battle.net.exe
+  prefix: /home/time/Games/battlenet
+game_slug: battlenet
+name: "\u66B4\u96EA\u6218\u7F51\u56FD\u670D"
+requires: null
+script:
+  custom-name: "\u66B4\u96EA\u6218\u7F51\u56FD\u670D"
+  files:
+  - cache-updater: https://file.winegame.net/games/overwatch/state-cache-update.sh
+  - setup:
+      filename: Battle.net-Setup-CN.exe
+      url: https://downloader.battlenet.com.cn/download/getInstallerForGame?os=win&gameProgram=BATTLENET_APP&version=Live
+  - wineinit: https://file.winegame.net/games/common/wineinit.sh
+  - cmdfonts: https://file.winegame.net/cache/wine/fonts/MicrosoftYaHeiMono-20221214.tar.xz
+  game:
+    arch: win64
+    exe: drive_c/Program Files (x86)/Battle.net/Battle.net.exe
+    prefix: $GAMEDIR
+  installer:
+  - execute:
+      command: bash "$wineinit" win64
+      description: "\u4E0B\u8F7D\u5B57\u4F53\u548C\u8FD0\u884C\u5E93"
+  - task:
+      arch: win64
+      description: "\u521B\u5EFA64\u4F4DWine\u524D\u7F00"
+      name: create_prefix
+      prefix: $GAMEDIR
+  - extract:
+      description: "\u89E3\u538B\u4E2D\u6587\u5B57\u4F53"
+      dst: $GAMEDIR/drive_c/windows/Fonts
+      file: cmdfonts
+  - task:
+      arch: win64
+      description: "\u5B89\u88C5\u4E2D\u6587\u5B57\u4F53"
+      filename: $GAMEDIR/drive_c/windows/Fonts/MicrosoftYaHeiMono.reg
+      name: set_regedit_file
+  - execute:
+      command: rm -f "$GAMEDIR/dosdevices/m::"; ln -sf "$HOME" "$GAMEDIR/dosdevices/m:"
+      description: "\u6DFB\u52A0\u4E3B\u76EE\u5F55($HOME)\u4E3AM\u76D8"
+  - write_file:
+      content: '#!/bin/bash
+
+        date="$(wget --server-response --spider https://file.winegame.net/games/overwatch/Overwatch.tar.xz
+        2>&1 | sed -n "s/  Last-Modified: //p")"
+
+        date="$(date -d "$date" +%s)"
+
+        echo "$date" > ./state-cache-merge/.state-cache-timestamp'
+      file: $GAMEDIR/timestamp.sh
+  - write_file:
+      content: 'dxgi.nvapiHack = False
+
+        [Overwatch.exe]
+
+        dxvk.hud = compiler'
+      file: $GAMEDIR/dxvk.conf
+  - merge:
+      dst: $GAMEDIR/state-cache-merge
+      src: cache-updater
+  - chmodx: $GAMEDIR/state-cache-merge/state-cache-update.sh
+  - chmodx: $GAMEDIR/timestamp.sh
+  - move:
+      dst: $CACHE
+      src: $GAMEDIR/timestamp.sh
+  - write_json:
+      data:
+        Client:
+          GameLaunchWindowBehavior: '0'
+          GameSearch:
+            BackgroundSearch: 'true'
+          HardwareAcceleration: 'false'
+          HideOnClose: 'false'
+          Sound:
+            Enabled: 'false'
+          Streaming:
+            StreamingEnabled: 'false'
+      description: "\u5199\u5165 Battle.Net \u914D\u7F6E\u6587\u4EF6"
+      file: $GAMEDIR/drive_c/users/$USER/Application Data/Battle.net/Battle.net.config
+  - write_config:
+      description: "\u4E3A\u5B88\u671B\u5148\u950B\u542F\u7528\u65E0\u8FB9\u6846\u7A97\
+        \u53E3\u6A21\u5F0F"
+      file: $GAMEDIR/drive_c/users/$USER/My Documents/Overwatch/Settings/Settings_v0.ini
+      key: WindowMode
+      section: Render.13
+      value: '"1"'
+  - write_config:
+      description: "\u4F7F\u7528WEBM\u683C\u5F0F\u4FDD\u5B58\u5B88\u671B\u5148\u950B\
+        \u4EAE\u773C\u8868\u73B0"
+      file: $GAMEDIR/drive_c/users/$USER/My Documents/Overwatch/Settings/Settings_v0.ini
+      key: Type
+      section: MovieExport.1
+      value: '"1"'
+  - write_config:
+      description: "\u7981\u7528\u5B88\u671B\u5148\u950B\u4FDD\u5B58\u4EAE\u773C\u8868\
+        \u73B0\u65F6\u7684\u786C\u4EF6\u52A0\u901F"
+      file: $GAMEDIR/drive_c/users/$USER/My Documents/Overwatch/Settings/Settings_v0.ini
+      key: UseHardware
+      section: MovieExport.1
+      value: '"0"'
+  - write_file:
+      content: hasseennewcinematic=True
+      description: "\u4FEE\u590D\u7089\u77F3\u4F20\u8BF4\u542F\u52A8\u95EE\u9898"
+      file: $GAMEDIR/drive_c/users/$USER/Local Settings/Application Data/Blizzard/Hearthstone/options.txt
+  - task:
+      arch: win64
+      description: "Wine Staging: \u542F\u7528 DXVA2"
+      key: backend
+      name: set_regedit
+      path: HKEY_CURRENT_USER\Software\Wine\DXVA2
+      prefix: $GAMEDIR
+      value: va
+  - task:
+      arch: win64
+      name: winekill
+      prefix: $GAMEDIR
+  - task:
+      arch: win64
+      description: "\u7981\u6B62\u7A97\u53E3\u7BA1\u7406\u5668\u88C5\u9970\u7A97\u53E3"
+      key: Decorated
+      name: set_regedit
+      path: HKEY_CURRENT_USER\Software\Wine\X11 Driver
+      prefix: $GAMEDIR
+      type: REG_SZ
+      value: N
+  - task:
+      arch: win64
+      name: winekill
+      prefix: $GAMEDIR
+  - task:
+      arch: win64
+      description: "\u6218\u7F51\u5B89\u88C5\u7A0B\u5E8F\u5373\u5C06\u6253\u5F00\u3002\
+        \n------------------------------\n\u8BF7\u5728\u5B89\u88C5\u7A0B\u5E8F\u4E2D\
+        \u5B8C\u6210\u6218\u7F51\u5B89\u88C5\u3002\n\u6CE8\u610F\uFF0C\u4E00\u5B9A\
+        \u8981\u5B89\u88C5\u5230\u9ED8\u8BA4\u8DEF\u5F84\uFF0C\u4E0D\u8981\u5B89\u88C5\
+        \u5230\u4EFB\u4F55\u5176\u4ED6\u4F4D\u7F6E\uFF0C\u5426\u5219\u7A0B\u5E8F\u4F1A\
+        \u8BA4\u4E3A\u5B89\u88C5\u5931\u8D25\uFF01\n\u4E0D\u5FC5\u767B\u5F55\u5BA2\
+        \u6237\u7AEF\uFF0C\u5B89\u88C5\u5B8C\u6210\u540E\u5173\u95ED\u5B89\u88C5\u7A0B\
+        \u5E8F\u5373\u53EF\u3002"
+      exclude_processes: Battle.net.exe Agent.exe "Battle.net Helper.exe" wineconsole
+        explorer.exe conhost.exe svchost.exe
+      executable: setup
+      name: wineexec
+  - task:
+      arch: win64
+      name: winekill
+      prefix: $GAMEDIR
+  system:
+    env:
+      DXVK_CONFIG_FILE: $GAMEDIR/dxvk.conf
+      DXVK_STATE_CACHE_PATH: $GAMEDIR
+      STAGING_SHARED_MEMORY: 1
+      __GL_SHADER_DISK_CACHE: 1
+      __GL_SHADER_DISK_CACHE_PATH: $GAMEDIR
+    exclude_processes: Agent.exe "Battle.net Helper.exe"
+    manual_command: $GAMEDIR/state-cache-merge/state-cache-update.sh
+  wine:
+    dxvk: true
+    esync: true
+    overrides:
+      d3dcompiler_47: native,builtin
+      d3dcsx_47: native,builtin
+      d3dx11_42: native,builtin
+      d3dx9_42: native,builtin
+      locationapi: disabled
+      winedbg.exe: disabled
+      winemenubuilder.exe: disabled
+    version: wine-proton-8-26-x86_64
+    vkd3d: true
+slug: blizzard-battlenet-0a-wine-proton-8-26
+system:
+  env:
+    DXVK_CONFIG_FILE: /home/time/Games/battlenet/dxvk.conf
+    DXVK_STATE_CACHE_PATH: /home/time/Games/battlenet
+    STAGING_SHARED_MEMORY: '1'
+    __GL_SHADER_DISK_CACHE: '1'
+    __GL_SHADER_DISK_CACHE_PATH: /home/time/Games/battlenet
+  exclude_processes: Agent.exe "Battle.net Helper.exe"
+  manual_command: /home/time/Games/battlenet/state-cache-merge/state-cache-update.sh
+variables: {}
+version: "0a. \u56FD\u670D\uFF08wine-proton-8-26\uFF09"
+wine:
+  dxvk: true
+  esync: true
+  overrides:
+    d3dcompiler_47: native,builtin
+    d3dcsx_47: native,builtin
+    d3dx11_42: native,builtin
+    d3dx9_42: native,builtin
+    locationapi: disabled
+    winedbg.exe: disabled
+    winemenubuilder.exe: disabled
+  version: wine-proton-8-26-x86_64
+  vkd3d: true
+year: 1996

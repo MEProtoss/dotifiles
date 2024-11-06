@@ -1,3 +1,6 @@
 ---
+"pane_group:add_down": ctrl-shift-_
+"pane_group:add_right": ctrl-shift-|
 "input:open_completion_suggestions": ctrl-space
 "editor_view:insert_autosuggestion": tab
+"input:toggle_natural_language_command_search": ctrl-;

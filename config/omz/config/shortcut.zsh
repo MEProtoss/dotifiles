@@ -14,6 +14,7 @@ alias ud144="xrandr --output eDP-1 --mode 2560x1600 --pos 0x1440 --rotate normal
 alias ud75="xrandr --output eDP-1 --mode 2560x1600 --pos 0x1440 --rotate normal --output HDMI-1 --primary --mode 2560x1440 --rate 75 --pos 0x0 --rotate normal && feh --randomize --bg-fill ~/Pictures/wallpaper/*.png"
 alias Eng="nvim /home/time/workspace/wudao-dict/wudao-dict/usr/notebook.txt"
 alias mus="musicfox"
+alias zshshortcut="nvim ~/.config/omz/config/shortcut.zsh"
 
 # exa --icons
 # ls
@@ -26,7 +27,7 @@ alias lr='exa --icons -R'
 alias lg='exa --icons -l --group-darectories-first'
 
 alias ra='ranger'
-alias fas='random_number=$((RANDOM % 739 + 1)); fastfetch --logo ~/Pictures/竖屏动漫/${random_number}.png --logo-type kitty --logo-width 30 --logo-height 18'
+alias fas='random_number=$((RANDOM % 739 + 1)); fastfetch --logo ~/Pictures/竖屏动漫/${random_number}.png --logo-type kitty --logo-width 25 --logo-height 18'
 alias sig="xrandr --output eDP-1 --mode 2560x1600 --pos 0x0 --rotate normal --output HDMI-1 --off --output DP-1 --off --output DP-2 --off --output DP-3 --off --output DP-4 --off --output DP-5 --off && feh --randomize --bg-fill ~/Pictures/wallpaper/*.png"
 # 快捷访问
 alias c="cd ~/Code/"
