@@ -1,10 +1,10 @@
 lastupdatecheck: 0
 recentrepos:
     - /home/time/workspace/dotifiles
+    - /home/time/workspace/dotifiles/config/nvim
     - /home/time/workspace/blog
     - /home/time/workspace/st
     - /home/time/scripts
-    - /home/time/workspace/dotifiles/config/nvim
     - /home/time/文档/Notes
     - /home/time/picom
     - /home/time/workspace/dwm
