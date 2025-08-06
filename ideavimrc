@@ -58,6 +58,15 @@ nmap 'a 'A
 nmap L <action>(NextTab)
 nmap H <action>(PreviousTab)
 
+" 调整垂直窗口大小（增加）
+nnoremap <C-Up> :resize +2<CR>
+" 调整垂直窗口大小（减少）
+nnoremap <C-Down> :resize -2<CR>
+
+" 调整水平窗口大小（增加）
+nnoremap <C-Right> :vertical resize +2<CR>
+" 调整水平窗口大小（减少）
+nnoremap <C-Left> :vertical resize -2<CR>
 
 " ================================================================================================
 " = Leader Keymaps =====================================
